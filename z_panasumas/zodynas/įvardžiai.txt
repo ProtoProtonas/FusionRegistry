@@ -1,0 +1,599 @@
+﻿ana 5 an-a anas; įv. mot. g. vns. vard.; įv. mot. g. vns. įnag.; įv. mot. g.
+vns. šauksm.
+aną 16 an-ą anas; įv. vyr. g. vns. gal.; įv. mot. g. vns. gal.
+anais 6 an-ais anas; įv. vyr. g. dgs. įnag.
+anam 2 an-am anas; įv. vyr. g. vns. naud.
+aname 2 an-ame anas; įv. vyr. g. vns. viet.
+anas 13 an-as anas; įv. vyr. g. vns. vard.; įv. vyr. g. vns. šauksm.; įv. mot. g.
+dgs. gal.
+anasai 1 an-asai anas; įv. vyr. g. vns. vard. įvardž.; įv. vyr. g. vns. šauksm.
+įvardž.
+anie 4 an-ie anas; įv. vyr. g. dgs. vard.; įv. vyr. g. dgs. šauksm.
+ano 11 an-o anas; įv. vyr. g. vns. kilm.
+anoj 1 an-oj anas; įv. mot. g. vns. viet.
+anoje 3 an-oje anas; įv. mot. g. vns. viet.
+anoji 1 an-oji anas; įv. mot. g. vns. vard. įvardž.; įv. mot. g. vns. šauksm.
+įvardž.
+anokie 1 an-ok-ie anoks; įv. vyr. g. dgs. vard.; įv. vyr. g. dgs. šauksm.
+anom 1 an-om anas; įv. mot. g. dgs. naud.; įv. mot. g. dgs. įnag.
+anomis 2 an-omis anas; įv. mot. g. dgs. įnag.
+anos 6 an-os anas; įv. mot. g. vns. kilm.; įv. mot. g. dgs. vard.; įv. mot. g.
+dgs. šauksm.
+anų 7 an-ų anas; įv. vyr. g. dgs. kilm.; įv. mot. g. dgs. kilm.
+anuo 4 an-uo anas; įv. vyr. g. vns. įnag.
+anuose 1 an-uose anas; įv. vyr. g. dgs. viet.
+aš 1735 aš aš; įv. vns. vard.
+ja 48 j-a jis; įv. mot. g. vns. įnag.
+ją 371 j-ą jis; įv. mot. g. vns. gal.
+jais 50 j-ais jis; įv. vyr. g. dgs. įnag.
+jam 484 j-am jis; įv. vyr. g. vns. naud.
+jame 64 j-ame jis; įv. vyr. g. vns. viet.
+jas 148 j-as jis; įv. mot. g. dgs. gal.
+ji 889 j-i jis; įv. mot. g. vns. vard.
+jį 533 j-į jis; įv. vyr. g. vns. gal.
+jie 907 j-ie jis; įv. vyr. g. dgs. vard.
+jiedu 31 j-ie-d-u jis; įv. vyr. g. dvisk. vard.
+jiems 219 j-iems jis; įv. vyr. g. dgs. naud.
+jinai 20 j-inai jis; įv. mot. g. vns. vard. įvardž.
+jis 1751 j-is jis; įv. vyr. g. vns. vard.
+jisai 51 j-isai jis; įv. vyr. g. vns. vard. įvardž.
+jo 1163 j-o jis; įv. vyr. g. vns. kilm.
+joj 2 j-oj jis; įv. mot. g. vns. viet.
+joje 57 j-oje jis; įv. mot. g. vns. viet.
+331
+jojo 2 j-ojo jis; įv. vyr. g. vns. kilm. įvardž.
+jokia 11 j-ok-ia joks; įv. mot. g. vns. vard.; įv. mot. g. vns. įnag.; įv. mot. g.
+vns. šauksm.
+jokią 2 j-ok-ią joks; įv. mot. g. vns. gal.
+jokiais 5 j-ok-iais joks; įv. vyr. g. dgs. įnag.
+jokiam 1 j-ok-iam joks; įv. vyr. g. vns. naud.
+jokiame 1 j-ok-iame joks; įv. vyr. g. vns. viet.
+jokias 3 j-ok-ias joks; įv. mot. g. dgs. gal.
+jokie 6 j-ok-ie joks; įv. vyr. g. dgs. vard.; įv. vyr. g. dgs. šauksm.
+jokio 51 j-ok-io joks; įv. vyr. g. vns. kilm.
+jokios 53 j-ok-ios joks; įv. mot. g. vns. kilm.; įv. mot. g. dgs. vard.; įv. mot. g.
+dgs. šauksm.
+jokiose 1 j-ok-iose joks; įv. mot. g. dgs. viet.
+jokių 92 j-ok-ių joks; įv. vyr. g. dgs. kilm.; įv. mot. g. dgs. kilm.
+jokius 1 j-ok-ius joks; įv. vyr. g. dgs. gal.
+joks 20 j-ok-s joks; įv. vyr. g. vns. vard.; įv. vyr. g. vns. šauksm.
+jom 2 j-om jis; įv. mot. g. dgs. naud.; įv. mot. g. dgs. įnag.
+jomis 15 j-omis jis; įv. mot. g. dgs. įnag.
+joms 43 j-oms jis; įv. mot. g. dgs. naud.
+jos 962 j-os jis; įv. mot. g. vns. kilm.; įv. mot. g. dgs. vard.
+jose 1 j-ose jis; įv. mot. g. dgs. viet.
+jų 1327 j-ų jis; įv. vyr. g. dgs. kilm.; įv. mot. g. dgs. kilm.
+judu 2 j-u-d-u tu; įv. vyr. g. dvisk. vard.; įv. vyr. g. dvisk. gal.; įv. vyr. g. dvisk.
+šauksm.
+jųdviejų 5 j-ų-dv-iejų jis; įv. vyr. g. dvisk. kilm.; įv. mot. g. dvisk. kilm.
+judviem 1 j-u-dv-iem tu; įv. vyr. g. dvisk. naud.; įv. vyr. g. dvisk. įnag.; įv. mot. g.
+dvisk. naud.; įv. mot. g. dvisk. įnag.
+jųjų 1 j-ųjų jis; įv. vyr. g. dgs. kilm. įvardž.; įv. mot. g. dgs. kilm. įvardž.
+jum 1 j-um tu; įv. dgs. naud.
+jumis 10 j-umis tu; įv. dgs. įnag.
+jums 104 j-ums tu; įv. dgs. naud.
+juo 93 j-uo jis; įv. vyr. g. vns. įnag.
+juodu 6 j-uo-d-u jis; įv. vyr. g. dvisk. vard.; įv. vyr. g. dvisk. gal.
+juodviejų 1 j-uo-dv-iej-ų jis; įv. vyr. g. dvisk. kilm.; įv. mot. g. dvisk. kilm.
+juodviem 1 j-uo-dv-iem juodu; įv. vyr. g. dvisk. naud.; įv. vyr. g. dvisk. įnag.; įv. mot. g.
+dvisk. naud.; įv. mot. g. dvisk. įnag.
+juoju 2 j-uoju jis; įv. vyr. g. vns. įnag. įvardž.
+juos 379 j-uos jis; įv. vyr. g. dgs. gal.; įv. vyr. g. dgs. viet.
+juose 44 j-uose jis; įv. vyr. g. dgs. viet.
+jus 38 j-us tu; įv. dgs. gal.
+jūs 142 j-ūs tu; įv. dgs. vard.; įv. dgs. šauksm.
+jūsų 88 j-ūsų tu; įv. dgs. kilm.
+jūsuose 1 j-ūsuose tu; įv. dgs. viet.
+ką 827 k-ą kas; įv. gal.
+332
+kam 97 k-am kas; įv. naud.
+kas 880 k-as kas; įv. vard.
+katra 1 katr-a katras; įv. mot. g. vns. vard.; įv. mot. g. vns. įnag.
+katro 2 katr-o katras; įv. vyr. g. vns. kilm.
+katruos 1 katr-uos katras; įv. vyr. g. dgs. gal.; įv. vyr. g. dgs. viet.
+kažką 92 kaž-k-ą kažkas; įv. gal.
+kažkam 5 kaž-k-am kažkas; įv. naud.
+kažkas 107 kaž-k-as kažkas; įv. vard.
+kažkeli 1 kaž-kel-i kažkeli; įv. vyr. g. dgs. vard.;įv. vyr. g. dgs. šauksm.
+kažkieno 3 kaž-kieno kažkieno; įv.
+kažko 30 kaž-k-o kažkas; įv. kilm.
+kažkokį 24 kaž-k-ok-į kažkoks; įv. vyr. g. vns. gal.
+kažkokia 23 kaž-k-ok-ia kažkoks; įv. mot. g. vns. įnag.; įv. mot. g. vns. įnag.; įv. mot. g.
+vns. šauksm.
+kažkokią 9 kaž-k-ok-ią kažkoks; įv. mot. g. vns. gal.
+kažkokiai 1 kaž-k-ok-iai kažkoks; įv. mot. g. vns. naud.
+kažkokiais 2 kaž-k-ok-iais kažkoks; įv. vyr. g. dgs. įnag.
+kažkokiam 3 kaž-k-ok-iam kažkoks; įv. vyr. g. vns. naud.
+kažkokias 1 kaž-k-ok-ias kažkoks; įv. mot. g. dgs. gal.
+kažkokie 11 kaž-k-ok-ie kažkoks; įv. vyr. g. dgs. vard.; įv. vyr. g. dgs. šauksm.
+kažkokio 11 kaž-k-ok-io kažkoks; įv. vyr. g. vns. kilm.
+kažkokios 14 kaž-k-ok-ios kažkoks; įv. mot. g. vns. kilm.; įv. mot. g. dgs. vard.; įv. mot. g.
+dgs. šauksm.
+kažkokiu 5 kaž-k-ok-iu kažkoks; įv. vyr. g. vns. įnag.
+kažkokių 12 kaž-k-ok-ių kažkoks; įv. vyr. g. dgs. kilm.; įv. mot. g. dgs. kilm.
+kažkokius 6 kaž-k-ok-ius kažkoks; įv. vyr. g. dgs. gal.
+kažkoks 45 kaž-k-ok-s kažkoks; įv. vyr. g. vns. vard.; įv. vyr. g. vns. šauksm.
+kažkuo 11 kaž-k-uo kažkas; įv. įnag.
+kažkurį 1 kaž-kur-į kažkuris; įv. vyr. g. vns. gal.
+kažkuria 1 kaž-kur-ia kažkuris; įv. mot. g. vns. įnag.
+kažkurią 2 kaž-kur-ią kažkuris; įv. mot. g. vns. gal.
+kažkuriam 1 kaž-kur-iam kažkuris; įv. vyr. g. vns. naud.
+kažkuris 5 kaž-kur-is kažkuris; įv. vyr. g. vns. vard.
+kažkuriuo 1 kaž-kur-iuo kažkuris; įv. vyr. g. vns. įnag.
+keleri 5 kel-er-i keleri; įv. vyr. g. vard.; įv. vyr. g. šauksm.
+keleriais 1 kel-er-iais keleri; įv. vyr. g. įnag.
+kelerių 5 kel-er-ių keleri; įv. vyr. g. kilm.; įv. mot. g. kilm.
+kelerius 6 kel-er-ius keleri; įv. vyr. g. gal.
+keletą 56 kel-et-ą keletas; įv. gal.
+keletai 1 kel-et-ai keletas; įv. naud.
+keletas 36 kel-et-as keletas; įv. vard.; įv. šauksm.
+keleto 14 kel-et-o keletas; įv. kilm.
+keletos 1 kel-et-os keletas; įv. kilm.
+333
+keletu 5 kel-et-u keletas; įv. įnag.
+keletui 3 kel-et-ui keletas; įv. naud.
+keli 69 kel-i keli; įv. vyr. g. vard.; įv. vyr. g. šauksm.
+keliais 32 kel-iais keli; įv. vyr. g. įnag.
+kelias 45 kel-ias keli; įv. mot. g. gal.
+keliasdešimt 7 kel-ias-dešimt keliasdešimt; įv.
+keliems 1 kel-iems keli; įv. vyr. g. naud.
+kelinta 2 kel-int-a kelintas; įv. mot. g. vns. vard.; įv. mot. g. vns. įnag.; įv. mot. g.
+vns. šauksm.;
+kelintą 7 kel-int-ą kelintas; įv. vyr. g. vns. gal.; įv. mot. g. vns. gal.
+kelintais 2 kel-int-ais kelintas; įv. vyr. g. dgs. įnag.
+kelintam 1 kel-int-am kelintas; įv. vyr. g. vns. naud.
+kelintas 2 kel-int-as kelintas; įv. vyr. g. vns. vard.; įv. vyr. g. vns. šauksm.
+kelinti 3 kel-int-i kelintas; įv. vyr. g. dgs. vard.; įv. vyr. g. dgs. šauksm.
+kelintos 1 kel-int-os kelintas; įv. mot. g. vns. kilm.
+keliolika 16 kel-io-lik-a keliolika; įv. vard.; įv. gal.; įv. įnag.; įv. šauksm.
+keliolikoje 1 kel-io-lik-oje keliolika; įv. viet.
+keliolikos 6 kel-io-lik-os keliolika; įv. kilm.
+keliom 1 kel-iom keli; įv. mot. g. naud.; įv. mot. g. įnag.
+keliomis 5 kel-iomis keli; įv. mot. g. įnag.
+kelioms 8 kel-ioms keli; įv. mot. g. naud.
+kelios 43 kel-ios keli; įv. mot. g. vard.; įv. mot. g. šauksm.
+keliose 9 kel-iose keli; įv. mot. g. viet.
+kelis 89 kel-is keli; įv. vyr. g. gal.
+kelių 98 kel-ių keli; įv. vyr. g. kilm.; įv. mot. g. kilm.
+keliuose 13 kel-iuose keli; įv. vyr. g. viet.
+kiekviena 49 kiek-vien-a kiekvienas; įv. mot. g. vns. vard.; įv. mot. g. vns. įnag.; įv. mot.
+g. vns. šauksm.; įv. bev. g.
+kiekvieną 83 kiek-vien-ą kiekvienas; įv. vyr. g. vns. gal.; įv. mot. g. vns. gal.
+kiekvienai 10 kiek-vien-ai kiekvienas; įv. mot. g. vns. naud.
+kiekvienais 7 kiek-vien-ais kiekvienas; įv. vyr. g. dgs. įnag.
+kiekvienam 39 kiek-vien-am kiekvienas; įv. vyr. g. vns. naud.
+kiekviename 16 kiek-vien-ame kiekvienas; įv. vyr. g. vns. viet.
+kiekvienas 131 kiek-vien-as kiekvienas; įv. vyr. g. vns. vard.; įv. vyr. g. vns. šauksm.; įv.
+mot. g. dgs. gal.
+kiekvieni 1 kiek-vien-i kiekvienas; įv. vyr. g. dgs. vard.; įv. vyr. g. dgs. šauksm.
+kiekvieno 62 kiek-vien-o kiekvienas; įv. vyr. g. vns. kilm.
+kiekvienoj 3 kiek-vien-oj kiekvienas; įv. mot. g. vns. viet.
+kiekvienoje 26 kiek-vien-oje kiekvienas; įv. mot. g. vns. viet.
+kiekvienos 24 kiek-vien-os kiekvienas; įv. mot. g. vns. kilm.; įv. mot. g. dgs. vard.; įv.
+mot. g. dgs. šauksm.;
+kiekvienu 15 kiek-vien-u kiekvienas; įv. vyr. g. vns. įnag.
+kieno 10 kieno kieno; įv.
+kita 121 kit-a kitas; įv. mot. g. vns. vard.; įv. mot. g. vns. įnag.; įv. mot. g.
+334
+vns. šauksm.; įv. bev. g.
+kitą 225 kit-ą kitas; įv. vyr. g. vns. gal.; įv. mot. g. vns. gal.
+kitai 32 kit-ai kitas; įv. mot. g. vns. naud.
+kitais 124 kit-ais kitas; įv. vyr. g. dgs. įnag.
+kitam 61 kit-am kitas; įv. vyr. g. vns. naud.
+kitame 23 kit-ame kitas; įv. vyr. g. vns. viet.
+kitas 207 kit-as kitas; įv. vyr. g. vns. vard.; įv. mot. g. dgs. gal.
+kiti 260 kit-i kitas; įv. vyr. g. dgs. vard.; įv. vyr. g. dgs. šauksm.
+kitiem 1 kit-iem kitas; įv. vyr. g. dgs. naud.
+kitiems 90 kit-iems kitas; įv. vyr. g. dgs. naud.
+kitką 1 kit-k-ą kitkas; įv. gal.
+kitkas 1 kit-k-as kitkas; įv. vard.
+kitkuo 1 kit-k-uo kitkas; įv. įnag.
+kito 123 kit-o kitas; įv. vyr. g. vns. kilm.
+kitoje 29 kit-oje kitas; įv. mot. g. vns. viet.
+kitokį 3 kit-ok-į kitoks; įv. vyr. g. vns. gal.
+kitokia 17 kit-ok-ia kitoks; įv. mot. g. vns. vard.; įv. mot. g. vns. įnag.; įv. mot. g.
+vns. šauksm.
+kitokią 10 kit-ok-ią kitoks; įv. mot. g. vns. gal.
+kitokiais 3 kit-ok-iais kitoks; įv. vyr. g. dgs. įnag.
+kitokiame 1 kit-ok-iame kitoks; įv. vyr. g. vns. viet.
+kitokias 4 kit-ok-ias kitoks; įv. mot. g. dgs. gal.
+kitokie 13 kit-ok-ie kitoks; įv. vyr. g. dgs. vard.; įv. vyr. g. dgs. šauksm.
+kitokio 9 kit-ok-io kitoks; įv. vyr. g. vns. kilm.
+kitokioje 1 kit-ok-ioje kitoks; įv. mot. g. vns. viet.
+kitokiomis 3 kit-ok-iomis kitoks; įv. mot. g. dgs. įnag.
+kitokios 22 kit-ok-ios kitoks; įv. mot. g. vns. kilm.; įv. mot. g. dgs. vard.; įv. mot. g.
+dgs. šauksm.
+kitokiu 4 kit-ok-iu kitoks; įv. vyr. g. vns. įnag.
+kitokių 24 kit-ok-ių kitoks; įv. vyr. g. dgs. kilm.; įv. mot. g. dgs. kilm.
+kitokius 16 kit-ok-ius kitoks; įv. vyr. g. dgs. gal.
+kitoks 23 kit-ok-s kitoks; įv. vyr. g. vns. vard.; įv. vyr. g. vns. šauksm.
+kitom 2 kit-om kitas; įv. mot. g. dgs. naud.; įv. mot. g. dgs. įnag.
+kitomis 30 kit-omis kitas; įv. mot. g. dgs. įnag.
+kitoms 20 kit-oms kitas; įv. mot. g. dgs. naud.
+kitos 139 kit-os kitas; įv. mot. g. vns. kilm.; įv. mot. g. dgs. vard.; įv. mot. g.
+dgs. šauksm.
+kitose 47 kit-ose kitas; įv. mot. g. dgs. viet.
+kitosna 1 kit-osna kitas; įv. mot. g. dgs. iliat.
+kitu 47 kit-u kitas; įv. vyr. g. vns. įnag.
+kitų 385 kit-ų kitas; įv. vyr. g. dgs. kilm.; įv. mot. g. dgs. kilm.
+kituose 40 kit-uose kitas; įv. vyr. g. dgs. viet.
+kitus 125 kit-us kitas; įv. vyr. g. dgs. gal.
+335
+ko 228 k-o kas; įv. kilm.
+kokį 93 k-ok-į koks; įv. vyr. g. vns. gal.
+kokia 113 k-ok-ia koks; įv. mot. g. vns. vard.; įv. mot. g. dgs. įnag.; įv. mot. g.
+vns. šauksm.
+kokią 72 k-ok-ią koks; įv. mot. g. vns. gal.
+kokiai 5 k-ok-iai koks; įv. mot. g. vns. naud.
+kokiais 16 k-ok-iais koks; įv. vyr. g. dgs. įnag.
+kokiam 7 k-ok-iam koks; įv. vyr. g. vns. naud.
+kokiame 3 k-ok-iame koks; įv. vyr. g. vns. viet.
+kokias 18 k-ok-ias koks; įv. mot. g. dgs. gal.
+kokie 82 k-ok-ie koks; įv. vyr. g. dgs. vard.; įv. vyr. g. dgs. šauksm.
+kokiems 1 k-ok-iems koks; įv. vyr. g. dgs. naud.
+kokio 46 k-ok-io koks; įv. vyr. g. vns. kilm.
+kokioj 5 k-ok-ioj koks; įv. mot. g. vns. viet.
+kokioje 2 k-ok-ioje koks; įv. mot. g. vns. viet.
+kokiom 1 k-ok-iom koks; įv. mot. g. dgs. įnag.
+kokiomis 1 k-ok-iomis koks; įv. mot. g. dgs. įnag.
+kokios 59 k-ok-ios koks; įv. mot. g. vns. kilm.; įv. mot. g. dgs. vard.; įv. mot. g.
+dgs. šauksm.
+kokiose 1 k-ok-iose koks; įv. mot. g. dgs. viet.
+kokiu 17 k-ok-iu koks; įv. vyr. g. vns. įnag.
+kokių 44 k-ok-ių koks; įv. vyr. g. dgs. kilm.; įv. mot. g. dgs. kilm.
+kokiuose 1 k-ok-iuose koks; įv. vyr. g. dgs. viet.
+kokius 36 k-ok-ius koks; įv. vyr. g. dgs. gal.
+koks 207 k-ok-s koks; įv. vyr. g. vns. vard.; įv. vyr. g. vns. šauksm.
+koksai 6 k-ok-sai koks; įv. vyr. g. vns. vard. Įvardž.; įv. vyr. g. vns. šauksm.
+Įvardž.
+kožnam 2 kožn-am kožnas; įv. vyr. g. vns. naud.
+kuri 202 kur-i kuris; įv. mot. g. vns. vard.
+kurį 161 kur-į kuris; įv. vyr. g. vns. gal.
+kuria 31 kur-ia kuris; įv. mot. g. vns. įnag.
+kurią 120 kur-ią kuris; įv. mot. g. vns. gal.
+kuriai 35 kur-iai kuris; įv. mot. g. vns. naud.
+kuriais 48 kur-iais kuris; įv. vyr. g. dgs. įnag.
+kuriam 47 kur-iam kuris; įv. vyr. g. vns. naud.
+kuriame 74 kur-iame kuris; įv. vyr. g. vns. viet.
+kurias 66 kur-ias kuris; įv. mot. g. dgs. gal.
+kurie 357 kur-ie kuris; įv. vyr. g. dgs. vard.; įv. vyr. g. dgs. šauksm.
+kuriem 1 kur-iem kuris; įv. vyr. g. dgs. naud.
+kuriems 44 kur-iems kuris; įv. vyr. g. dgs. naud.
+kurio 161 kur-io kuris; įv. vyr. g. vns. kilm.
+kurioj 5 kur-ioj kuris; įv. mot. g. vns. viet.
+kurioje 88 kur-ioje kuris; įv. mot. g. vns. viet.
+336
+kuriom 1 kur-iom kuris; įv. mot. g. dgs. naud.; įv. mot. g. dgs. įnag.
+kuriomis 19 kur-iomis kuris; įv. mot. g. dgs. įnag.
+kurioms 15 kur-ioms kuris; įv. mot. g. dgs. naud.
+kurion 1 kur-ion kuris; įv. mot. g. vns. iliat.
+kurios 222 kur-ios kuris; įv. mot. g. vns. kilm.; įv. mot. g. dgs. vard.; įv. mot. g.
+dgs. šauksm.
+kuriose 51 kur-iose kuris; įv. mot. g. dgs. viet.
+kuris 286 kur-is kuris; įv. vyr. g. vns. vard.
+kurių 262 kur-ių kuris; įv. vyr. g. dgs. kilm.; įv. mot. g. dgs. kilm.
+kuriuo 43 kur-iuo kuris; įv. vyr. g. vns. įnag.
+kuriuos 110 kur-iuos kuris; įv. vyr. g. dgs. gal.; įv. vyr. g. dgs. viet.
+kuriuose 48 kur-iuose kuris; įv. vyr. g. dgs. viet.
+man 884 m-an aš; įv. vns. naud.
+manai 1 man-ai manas; įv. mot. g. vns. naud.
+manajai 1 man-ajai manas; įv. mot. g. vns. naud. įvardž.
+manąjį 1 man-ąjį manas; įv. vyr. g. vns. gal. įvardž.
+manas 1 man-as manas; įv. vyr. g. vns. vard.; įv. vyr. g. vns. šauksm.; įv. mot. g.
+dgs. gal.
+manasis 1 man-asis manas; įv. vyr. g. vns. vard. įvardž.; įv. vyr. g. vns. šauksm.
+įvardž.
+mane 209 man-e aš; įv. vns. gal.
+manęs 95 man-ęs aš; įv. vns. kilm.
+manim 21 man-im aš; įv. vns. įnag.
+manimi 4 man-imi aš; įv. vns. įnag.
+maniškė 1 man-išk-ė maniškis; įv. mot. g. vns. vard.
+manyje 5 man-yje aš; įv. vns. viet.
+mano 480 man-o mano; įv.
+mes 424 m-es aš; įv. dgs. vard.
+mudu 25 m-u-d-u aš; įv. vyr. g. dvisk. vard.; įv. vyr. g. dvisk. gal.
+mudviejų 9 m-u-dv-iejų aš; įv. vyr. g. dvisk. kilm.; įv. mot. g. dvisk. kilm.
+mudviem 2 m-u-dv-iem aš; įv. vyr. g. dvisk. naud.; įv. vyr. g. dvisk. įnag.; įv. mot. g.
+dvisk. naud.; įv. mot. g. dvisk. įnag.
+mum 2 m-um aš; įv. dgs. naud.; įv. dgs. įnag.
+mumis 11 m-umis aš; įv. dgs. įnag.
+mumyse 4 m-umyse aš; įv. dgs. viet.
+mums 163 m-ums aš; įv. dgs. naud.
+mus 136 m-us aš; įv. dgs. gal.
+mūsiškės 1 mūs-išk-ės mūsiškis; įv. mot. g. vns. kilm.; įv. mot. g. dgs. vard.; įv. mot.
+g. dgs. šauksm.
+mūsiškiame 1 mūs-išk-iame mūsiškis; įv. vyr. g. dgs. viet.
+mūsiškiams 1 mūs-išk-iams mūsiškis; įv. vyr. g. dgs. naud.
+mūsiškis 2 mūs-išk-is mūsiškis; įv. vyr. g. vns. vard.
+mūsiškių 2 mūs-išk-ių mūsiškis; įv. vyr. g. dgs. kilm.; įv. mot. g. dgs. kilm.
+mūsiškius 1 mūs-išk-ius mūsiškis; įv. vyr. g. dgs. gal.
+337
+mūsų 507 m-ūsų aš; įv. dgs. kilm.
+mūsuose 2 m-ūsuose aš; įv. dgs. viet.
+nemūsiškė 1 ne-mūs-išk-ė nemūsiškis; įv. mot. g. vns. vard.
+ničnieko 1 nič-niek-o ničniekas; įv. kilm.
+nieką 5 niek-ą niekas; įv. gal.
+niekam 41 niek-am niekas; įv. naud.
+niekas 201 niek-as niekas; įv. vard.
+niekieno 8 niekieno niekieno; įv.
+nieko 5 niek-o niekas; įv. kilm.
+nieks 10 niek-s nieks; įv. vard.; įv. šauksm.
+niekuo 15 niek-uo niekas; įv. įnag.
+niekuom 1 niek-uom niekas; įv. įnag.
+pačia 7 pač-ia pats; įv. mot. g. vns. įnag.
+pačiais 4 pač-iais pats; įv. vyr. g. dgs. įnag.
+pačiam 35 pač-iam pats; įv. vyr. g. vns. naud.
+pačiame 10 pač-iame pats; įv. vyr. g. vns. viet.
+pačias 4 pač-ias pats; įv. mot. g. dgs. gal.
+pačio 2 pač-io pats; įv. vyr. g. vns. kilm.
+pačioj 7 pač-ioj pats; įv. mot. g. vns. viet.
+pačioje 10 pač-ioje pats; įv. mot. g. vns. viet.
+pačiomis 2 pač-iomis pats; įv. mot. g. dgs. įnag.
+pačioms 2 pač-ioms pats; įv. mot. g. dgs. naud.
+pačios 28 pač-ios pats; įv. mot. g. vns. kilm.; įv. mot. g. dgs. vard.; įv. mot. g.
+dgs. šauksm.
+pačiose 5 pač-iose pats; įv. mot. g. dgs. viet.
+pačiu 10 pač-iu pats; įv. vyr. g. vns. įnag.
+pačių 34 pač-ių pats; įv. vyr. g. dgs. kilm.; įv. mot. g. dgs. kilm.
+pačiuose 4 pač-iuose pats; įv. vyr. g. dgs. viet.
+pačius 6 pač-ius pats; įv. vyr. g. dgs. gal.
+pati 139 pat-i pats; įv. mot. g. vns. vard.; įv. mot. g. vns. šauksm.
+patį 37 pat-į pats; įv. vyr. g. vns. gal.
+patiems 14 pat-iems pats; įv. vyr. g. dgs. naud.
+paties 52 pat-ies pats; įv. vyr. g. vns. kilm.
+patys 115 pat-ys pats; įv. vyr. g. dgs. vard.; įv. vyr. g. dgs. šauksm.
+pats 255 pat-s pats; įv. vyr. g. vns. vard.
+patsai 1 pat-sai pats; įv. vyr. g. vns. vard. įvardž.
+sau 143 sau savęs; įv. naud.
+sava 8 sav-a savas; įv. mot. g. vns. vard.; įv. mot. g. vns. įnag.; įv. bev. g.
+savą 2 sav-ą savas; įv. vyr. g. vns. gal.; įv. mot. g. vns. gal.
+savai 2 sav-ai savas; įv. mot. g. vns. naud.
+savais 5 sav-ais savas; įv. vyr. g. dgs. įnag.
+savąja 1 sav-ąja savas; įv. mot. g. vns. įnag. įvardž.
+savąją 9 sav-ąją savas; įv. mot. g. vns. gal. įvardž.
+338
+savąjį 5 sav-ąjį savas; įv. vyr. g. vns. gal. įvardž.
+savam 1 sav-am savas; įv. vyr. g. vns. naud.
+savame 2 sav-ame savas; įv. vyr. g. vns. viet.
+savas 7 sav-as savas; įv. vyr. g. vns. vard.; įv. mot. g. dgs. gal.
+save 143 sav-e savęs; įv. gal.
+savęs 82 sav-ęs savęs; įv. kilm.
+savi 1 sav-i savas; įv. vyr. g. dgs. vard.; įv. vyr. g. dgs. šauksm.
+savieji 1 sav-ieji savas; įv. vyr. g. dgs. vard. įvardž.; įv. vyr. g. dgs. šauksm.
+įvardž.
+saviems 1 sav-iems savas; įv. vyr. g. dgs. naud.
+savim 7 sav-im savęs; įv. įnag.
+savimi 40 sav-imi savęs; įv. įnag.
+savin 1 sav-in savęs; įv. iliat.
+saviškę 1 sav-išk-ę saviškis; įv. mot. g. vns. gal.
+saviškį 1 sav-išk-į saviškis; įv. vyr. g. vns. gal.
+saviškiams 2 sav-išk-iams saviškis; įv. vyr. g. dgs. naud.
+saviškių 1 sav-išk-ių saviškis; įv. vyr. g. dgs. kilm.; įv. mot. g. dgs. kilm.
+saviškius 2 sav-išk-ius saviškis; įv. vyr. g. dgs. gal.
+savy 4 sav-y savęs; įv. viet.
+savyje 14 sav-yje savęs; įv. viet.
+savo 1327 sav-o savo; įv.
+savoje 1 sav-oje savas; įv. mot. g. vns. viet.
+savojo 15 sav-ojo savas; įv. vyr. g. vns. kilm. įvardž.
+savom 1 sav-om savas; įv. mot. g. dgs. naud.; įv. mot. g. dgs. įnag.
+savomis 4 sav-omis savas; įv. mot. g. dgs. įnag.
+savos 7 sav-os savas; įv. mot. g. vns. kilm.; įv. mot. g. dgs. vard.; įv. mot. g.
+dgs. šauksm.
+savosios 10 sav-osios savas; įv. mot. g. vns. kilm. įvardž.; įv. mot. g. dgs. vard.
+įvardž.; įv. mot. g. dgs. šauksm. įvardž.
+savu 3 sav-u savas; įv. vyr. g. vns. įnag.
+savų 19 sav-ų savas; įv. vyr. g. dgs. kilm.; įv. mot. g. dgs. kilm.
+savųjų 7 sav-ųjų savas; įv. vyr. g. dgs. kilm. įvardž.; įv. mot. g. dgs. kilm. įvardž.
+savuoju 1 sav-uoju savas; įv. vyr. g. vns. įnag. įvardž.
+savuosius 1 sav-uosius savas; įv. vyr. g. dgs. gal. įvardž.
+savus 4 sav-us savas; įv. vyr. g. dgs. gal.
+ši 138 š-i šis; įv. mot. g. vns. vard.; įv. mot. g. vns. šauksm.
+šį 154 š-į šis; įv. vyr. g. vns. gal.
+šia 34 š-ia šis; įv. mot. g. vns. įnag.
+šią 109 š-ią šis; įv. mot. g. vns. gal.
+šiai 24 š-iai šis; įv. mot. g. vns. naud.
+šiais 64 š-iais šis; įv. vyr. g. dgs. įnag.
+šiam 31 š-iam šis; įv. vyr. g. vns. naud.
+šiame 83 š-iame šis; įv. vyr. g. vns. viet.
+339
+šias 30 š-ias šis; įv. mot. g. dgs. gal.
+šie 147 š-ie šis; įv. vyr. g. dgs. vard.; įv. vyr. g. dgs. šauksm.
+šiems 24 š-iems šis; įv. vyr. g. dgs. naud.
+šio 224 š-io šis; įv. vyr. g. vns. kilm.
+šioje 54 š-ioje šis; įv. mot. g. vns. viet.
+šioji 4 š-ioji šis; įv. mot. g. vns. vard. įvardž.; įv. mot. g. vns. šauksm.
+įvardž.
+šiokį 1 š-iok-į šioks; įv. vyr. g. vns. gal.
+šiokią 1 š-iok-ią šioks; įv. mot. g. vns. gal.
+šiokiu 1 š-iok-iu šioks; įv. vyr. g. vns. įnag.
+šiom 2 š-iom šis; įv. mot. g. dgs. naud.; įv. mot. g. dgs. įnag.
+šiomis 11 š-iomis šis; įv. mot. g. dgs. įnag.
+šioms 12 š-ioms šis; įv. mot. g. dgs. naud.
+šios 233 š-ios šis; įv. mot. g. vns. kilm.; įv. mot. g. dgs. vard.; .; įv. mot. g.
+dgs. šauksm.
+šiose 16 š-iose šis; įv. mot. g. dgs. viet.
+šis 244 š-is šis; įv. vyr. g. vns. vard.; .; įv. vyr. g. vns. šauksm.
+šita 53 š-i-t-a šitas; įv. mot. g. vns. vard.; įv. mot. g. vns. įnag.; įv. mot. g.
+vns. šauksm.
+šitą 75 š-i-t-ą šitas; įv. vyr. g. vns. gal.; įv. mot. g. vns. gal.
+šitai 11 š-i-t-ai šitas; įv. mot. g. vns. naud.; įv. bev. g.
+šitais 4 š-i-t-ais šitas; įv. mot. g. vns. naud.; įv. bev. g.
+šitam 8 š-i-t-am šitas; įv. vyr. g. vns. naud.
+šitame 8 š-i-t-ame šitas; įv. vyr. g. vns. viet.
+šitas 63 š-i-t-as šitas; įv. vyr. g. vns. vard.; įv. vyr. g. vns. šauksm.; įv. mot. g.
+dgs. gal.
+šitie 29 š-i-t-ie šitas; įv. vyr. g. dgs. vard.; įv. vyr. g. dgs. šauksm.
+šitiem 1 š-i-t-iem šitas; įv. vyr. g. dgs. naud.
+šitiems 3 š-i-t-iems šitas; įv. vyr. g. dgs. naud.
+šito 55 š-i-t-o šitas; įv. vyr. g. vns. kilm.
+šitoj 6 š-i-t-oj šitas; įv. mot. g. vns. viet.
+šitoje 2 š-i-t-oje šitas; įv. mot. g. vns. viet.
+šitokį 1 š-i-t-ok-į šitoks; įv. vyr. g. vns. gal.
+šitokia 6 š-i-t-ok-ia šitoks; įv. mot. g. vns. vard.; įv. mot. g. vns. įnag.; įv. mot. g.
+vns. šauksm.
+šitokią 1 š-i-t-ok-ią šitoks; įv. mot. g. vns. gal.
+šitokiai 1 š-i-t-ok-iai šitoks; įv. mot. g. vns. naud.
+šitokiais 1 š-i-t-ok-iais šitoks; įv. vyr. g. dgs. įnag.
+šitokias 2 š-i-t-ok-ias šitoks; įv. mot. g. dgs. gal.
+šitokie 2 š-i-t-ok-ie šitoks; įv. vyr. g. dgs. vard.; įv. vyr. g. dgs. šauksm.
+šitokio 2 š-i-t-ok-io šitoks; įv. vyr. g. vns. kilm.
+šitokios 6 š-i-t-ok-ios šitoks; įv. mot. g. vns. kilm.; įv. mot. g. dgs. vard.; įv. mot. g.
+dgs. šauksm.
+šitokis 3 š-i-t-ok-is šitokis; įv. vyr. g. vns. vard.
+340
+šitokiu 3 š-i-t-ok-iu šitoks; įv. vyr. g. vns. įnag.
+šitokių 3 š-i-t-ok-ių šitoks; įv. vyr. g. dgs. kilm.; įv. mot. g. dgs. kilm.
+šitoks 4 š-i-t-ok-s šitoks; įv. vyr. g. vns. vard.; įv. vyr. g. vns. šauksm.
+šitos 13 š-i-t-os šitas; įv. mot. g. vns. kilm.; .; įv. mot. g. dgs. vard.; .; įv. mot.
+g. dgs. šauksm.
+šitų 16 š-i-t-ų šitas; įv. vyr. g. dgs. kilm.; įv. mot. g. dgs. kilm.
+šituo 12 š-i-t-uo šitas; įv. vyr. g. vns. įnag.
+šituos 12 š-i-t-uos šitas; įv. vyr. g. dgs. gal.; įv. vyr. g. dgs. viet.
+šituose 2 š-i-t-uose šitas; įv. vyr. g. dgs. viet.
+šių 162 š-ių šis; įv. vyr. g. dgs. kilm.; įv. mot. g. dgs. kilm.
+šiuo 156 š-iuo šis; įv. vyr. g. vns. įnag.
+šiuos 45 š-iuos šis; įv. vyr. g. dgs. gal.; įv. vyr. g. dgs. viet.
+šiuose 17 š-iuose šis; įv. vyr. g. dgs. viet.
+ta 256 t-a tas; įv. mot. g. vns. vard.; įv. mot. g. vns. įnag.; įv. mot. g. vns.
+šauksm.
+tą 502 t-ą tas; įv. vyr. g. vns. gal.; įv. mot. g. vns. gal.
+tai 12 t-ai tas; įv. mot. g. vns. naud.; įv. bev. g.
+tais 78 t-ais tas; įv. vyr. g. dgs. įnag.
+tam 146 t-am tas; įv. vyr. g. vns. naud.
+tame 17 t-ame tas; įv. vyr. g. vns. viet.
+tamsta 13 tamst-a tamsta; įv. vns. vard.; įv. vns. įnag.; įv. vns. šauksm.
+tamstą 3 tamst-ą tamsta; įv. vns. gal.
+tamstai 2 tamst-ai tamsta; įv. vns. naud.
+tamstos 4 tamst-os tamsta; įv. vns. kilm.; įv. dgs. vard.; įv. dgs. šauksm.
+tan 5 t-an tas; įv. vyr. g. vns. iliat.
+tas 559 t-as tas; įv. vyr. g. vns. vard.; įv. vyr. g. vns. šauksm.; įv. mot. g.
+dgs. gal.
+tasai 15 t-asai tas; įv. vyr. g. vns. vard. įvardž.; įv. vyr. g. vns. šauksm. įvardž.
+tatai 4 tat-ai tas; įv. bev. g. įvardž.
+tau 312 t-au tu; įv. vns. naud.
+tavąjį 1 tav-ąjį tavas; įv. vyr. g. vns. gal. įvardž.
+tavasis 1 tav-asis tavas; įv. vyr. g. vns. vard. įvardž.; įv. vyr. g. vns. šauksm.
+įvardž.
+tave 120 tav-e tu; įv. vns. gal.
+tavęs 42 tav-ęs tu; įv. vns. kilm.
+tavim 18 tav-im tu; įv. vns. įnag.
+tavimi 5 tav-imi tu; įv. vns. įnag.
+tavo 160 tav-o tavo; įv.
+tie 222 t-ie tas; įv. vyr. g. dgs. vard.; įv. vyr. g. dgs. šauksm.
+tiedu 2 t-ie-d-u tas; įv. vyr. g. dvisk. vard.; įv. vyr. g. dvisk. šauksm.
+tiem 3 t-iem tas; įv. vyr. g. dgs. naud.
+tiems 46 t-iems tas; įv. vyr. g. dgs. naud.
+to 558 t-o tas; įv. vyr. g. vns. kilm.
+toj 17 t-oj tas; įv. mot. g. vns. viet.
+341
+toje 20 t-oje tas; įv. mot. g. vns. viet.
+toji 18 t-oji tas; įv. mot. g. vns. vard. įvardž.; įv. mot. g. vns. šauksm.
+įvardž.
+tokį 115 t-ok-į toks; įv. vyr. g. vns. gal.
+tokia 272 t-ok-ia toks; įv. mot. g. vns. vard.; įv. mot. g. vns. įnag.; įv. mot. g.
+vns. šauksm.
+tokią 107 t-ok-ią toks; įv. mot. g. vns. gal.
+tokiai 12 t-ok-iai toks; įv. mot. g. vns. naud.
+tokiais 44 t-ok-iais toks; įv. vyr. g. dgs. įnag.
+tokiam 20 t-ok-iam toks; įv. vyr. g. vns. naud.
+tokiame 10 t-ok-iame toks; įv. vyr. g. vns. viet.
+tokias 28 t-ok-ias toks; įv. mot. g. dgs. gal.
+tokie 188 t-ok-ie toks; įv. vyr. g. dgs. vard.; įv. vyr. g. dgs. šauksm.
+tokiem 1 t-ok-iem toks; įv. vyr. g. dgs. naud.
+tokiems 14 t-ok-iems toks; įv. vyr. g. dgs. naud.
+tokio 124 t-ok-io toks; įv. vyr. g. vns. kilm.
+tokioj 4 t-ok-ioj toks; įv. mot. g. vns. viet.
+tokioje 14 t-ok-ioje toks; įv. mot. g. vns. viet.
+tokiomis 7 t-ok-iomis toks; įv. mot. g. dgs. įnag.
+tokioms 6 t-ok-ioms toks; įv. mot. g. dgs. naud.
+tokios 163 t-ok-ios toks; įv. mot. g. vns. kilm.; įv. mot. g. dgs. vard.; įv. mot. g.
+dgs. šauksm.
+tokiose 10 t-ok-iose toks; įv. mot. g. dgs. viet.
+tokiu 46 t-ok-iu toks; įv. vyr. g. vns. įnag.
+tokių 178 t-ok-ių toks; įv. vyr. g. dgs. kilm.; įv. mot. g. dgs. kilm.
+tokiuose 3 t-ok-iuose toks; įv. vyr. g. dgs. viet.
+tokius 58 t-ok-ius toks; įv. vyr. g. dgs. gal.
+toks 353 t-ok-s toks; įv. vyr. g. vns. vard.; įv. vyr. g. vns. šauksm.
+toksai 15 t-ok-sai toks; įv. vyr. g. vns. vard. įvardž.; įv. vyr. g. vns. šauksm.
+įvardž.
+tom 6 t-om tas; įv. mot. g. dgs. naud.; įv. mot. g. dgs. įnag.
+tomis 12 t-omis tas; įv. mot. g. dgs. įnag.
+toms 6 t-oms tas; įv. mot. g. dgs. naud.
+ton 3 t-on tas; įv. mot. g. vns. iliat.
+tos 219 t-os tas; įv. mot. g. vns. kilm.; įv. mot. g. dgs. vard.; įv. mot. g. dgs.
+šauksm.
+tose 20 t-ose tas; įv. mot. g. dgs. viet.
+tu 797 t-u tu; įv. vns. vard.; įv. vns. šauksm.
+tų 228 t-ų tas; įv. vyr. g. dgs. kilm.; įv. mot. g. dgs. kilm.
+tūlas 1 tūl-as tūlas; įv. vyr. g. vns. vard.; įv. vyr. g. vns. šauksm.; įv. mot. g.
+dgs. gal.
+tuo 157 t-uo tas; įv. vyr. g. vns. įnag.
+tuom 1 t-uom tas; įv. vyr. g. vns. įnag.
+tuos 158 t-uos tas; įv. vyr. g. dgs. gal.; įv. vyr. g. dgs. viet.
+342
+tuose 12 t-uose tas; įv. vyr. g. dgs. viet.
+viena 267 vien-a vienas; įv. mot. g. vns. vard.; įv. mot. g. vns. įnag.; įv. bev. g.
+vieną 352 vien-ą vienas; įv. vyr. g. vns. gal.; įv. mot. g. vns. gal.
+vienais 3 vien-ais vienas; įv. vyr. g. dgs. įnag.
+vienam 56 vien-am vienas; įv. vyr. g. vns. naud.
+viename 32 vien-ame vienas; įv. vyr. g. vns. viet.
+vienas 445 vien-as vienas; įv. vyr. g. vns. vard.; įv. vyr. g. vns. šauksm.; įv. mot. g.
+dgs. gal.
+vieni 82 vien-i vienas; įv. vyr. g. dgs. vard.; įv. vyr. g. dgs. šauksm.
+vieniems 9 vien-iems vienas; įv. vyr. g. dgs. naud.
+vieno 133 vien-o vienas; įv. vyr. g. vns. kilm.
+vienoj 6 vien-oj vienas; įv. mot. g. vns. viet.
+vienoje 44 vien-oje vienas; įv. mot. g. vns. viet.
+vienokios 1 vien-ok-ios vienoks; įv. mot. g. vns. kilm.; įv. mot. g. dgs. vard.; įv. mot. g.
+dgs. šauksm.
+vienokių 1 vien-ok-ių vienoks; įv. vyr. g. dgs. kilm.; įv. mot. g. dgs. kilm.
+vienoks 5 vien-ok-s vienoks; įv. vyr. g. vns. vard.; įv. vyr. g. vns. šauksm.
+vienon 1 vien-on vienas; įv. mot. g. vns. iliat.
+vienos 86 vien-os vienas; įv. mot. g. dgs. vard.; įv. mot. g. dgs. šauksm.
+vienose 3 vien-ose vienas; įv. mot. g. dgs. viet.
+vienu 50 vien-u vienas; įv. vyr. g. vns. įnag.
+vienų 21 vien-ų vienas; įv. vyr. g. dgs. kilm.; įv. mot. g. dgs. kilm.
+vienus 9 vien-us vienas; įv. vyr. g. dgs. gal.
+visa 155 vis-a visas; įv. mot. g. vns. vard.; įv. mot. g. vns. įnag.; įv. mot. g.
+vns. šauksm.; įv. bev. g.
+visą 215 vis-ą visas; įv. vyr. g. vns. gal.; įv. mot. g. vns. gal.
+visai 16 vis-ai visas; įv. mot. g. vns. naud.
+visais 47 vis-ais visas; įv. vyr. g. dgs. įnag.
+visam 19 vis-am visas; įv. vyr. g. vns. naud.
+visame 31 vis-ame visas; įv. vyr. g. vns. viet.
+visas 181 vis-as visas; įv. vyr. g. vns. vard.; įv. mot. g. dgs. gal.
+visi 422 vis-i visas; įv. vyr. g. dgs. vard.; įv. vyr. g. dgs. šauksm.
+visiem 4 vis-iem visas; įv. vyr. g. dgs. naud.
+visiems 99 vis-iems visas; įv. vyr. g. dgs. naud.
+viską 207 vis-k-ą viskas; įv. gal.
+viskam 2 vis-k-am viskas; įv. naud.
+viskas 305 vis-k-as viskas; įv. vard.
+visko 38 vis-k-o viskas; įv. kilm.
+viskuo 10 vis-k-uo viskas; įv. įnag.
+viso 46 vis-o visas; įv. vyr. g. vns. kilm.
+visoj 4 vis-oj visas; įv. mot. g. vns. viet.
+visoje 14 vis-oje visas; įv. mot. g. vns. viet.
+visokį 1 vis-ok-į visoks; įv. vyr. g. vns. gal.
+343
+visokia 2 vis-ok-ia visoks; įv. mot. g. vns. vard.; įv. mot. g. vns. įnag.; įv. mot. g.
+vns. šauksm.
+visokiais 10 vis-ok-iais visoks; įv. vyr. g. dgs. įnag.
+visokias 12 vis-ok-ias visoks; įv. mot. g. dgs. gal.
+visokie 12 vis-ok-ie visoks; įv. vyr. g. dgs. vard.; įv. vyr. g. dgs. šauksm.
+visokiems 1 vis-ok-iems visoks; įv. vyr. g. dgs. naud.
+visokio 6 vis-ok-io visoks; įv. vyr. g. vns. kilm.
+visokiom 1 vis-ok-iom visoks; įv. mot. g. dgs. naud.; įv. mot. g. dgs. įnag.
+visokios 9 vis-ok-ios visoks; įv. mot. g. vns. kilm.; įv. mot. g. dgs. vard.; įv. mot. g.
+dgs. šauksm.
+visokiose 1 vis-ok-iose visoks; įv. mot. g. dgs. viet.
+visokių 42 vis-ok-ių visoks; įv. vyr. g. dgs. kilm.; įv. mot. g. dgs. kilm.
+visokius 14 vis-ok-ius visoks; įv. vyr. g. dgs. gal.
+visoks 1 vis-ok-s visoks; įv. vyr. g. vns. vard.; įv. vyr. g. vns. šauksm.
+visomis 12 vis-omis visas; įv. mot. g. dgs. įnag.
+visoms 25 vis-oms visas; įv. mot. g. dgs. naud.
+visos 156 vis-os visas; įv. mot. g. vns. kilm.
+visose 23 vis-ose visas; įv. mot. g. dgs. viet.
+visu 21 vis-u visas; įv. vyr. g. vns. įnag.
+visų 249 vis-ų visas; įv. vyr. g. dgs. kilm.; įv. mot. g. dgs. kilm.
+visuose 21 vis-uose visas; įv. vyr. g. dgs. viet.
+visus 159 vis-us visas; įv. vyr. g. dgs. gal.

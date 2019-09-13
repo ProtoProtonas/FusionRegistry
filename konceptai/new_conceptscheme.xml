@@ -1,0 +1,717 @@
+<mes:Structure xmlns:mes="http://www.SDMX.org/resources/SDMXML/schemas/v2_0/message" xmlns:str="http://www.SDMX.org/resources/SDMXML/schemas/v2_0/structure" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.SDMX.org/resources/SDMXML/schemas/v2_0/message https://registry.sdmx.org/schemas/v2_0/SDMXMessage.xsd">
+  <mes:Header>
+    <mes:ID>IDREF1303</mes:ID>
+    <mes:Test>false</mes:Test>
+    <mes:Prepared>2019-07-31T10:55:12.169Z</mes:Prepared>
+    <mes:Sender id="LB" />
+    <mes:Receiver id="unknown" />
+  </mes:Header>
+  <mes:Concepts>
+    <str:ConceptScheme agencyID="LB" id="LB_CONCEPTS" isFinal="true" urn="urn:sdmx:org.sdmx.infomodel.conceptscheme.ConceptScheme=LB:LB_CONCEPTS(1.0)" version="1.0">
+      <str:Name xml:lang="en">LB concepts</str:Name>
+      <str:Name xml:lang="lt">LB konseeptai</str:Name>
+      <str:Concept id="AD" urn="urn:sdmx:org.sdmx.infomodel.conceptscheme.Concept=LB:LB_CONCEPTS(1.0).AD">
+        <str:Name xml:lang="en">Observation update date</str:Name>
+        <str:Name xml:lang="lt">Stebinio atnaujinimo data</str:Name>
+      </str:Concept>
+      <str:Concept id="ANGL_ILG_PAV" urn="urn:sdmx:org.sdmx.infomodel.conceptscheme.Concept=LB:LB_CONCEPTS(1.0).ANGL_ILG_PAV">
+        <str:Name xml:lang="en">English long name</str:Name>
+        <str:Name xml:lang="lt">Angli&#353;kas ilgas pavadinimas</str:Name>
+      </str:Concept>
+      <str:Concept id="ANGL_SUD_MET_APR" urn="urn:sdmx:org.sdmx.infomodel.conceptscheme.Concept=LB:LB_CONCEPTS(1.0).ANGL_SUD_MET_APR">
+        <str:Name xml:lang="en">Angli&#353;kas sudarymo metod&#371; apra&#353;ymas</str:Name>
+        <str:Name xml:lang="lt">Angli&#353;kas sudarymo metod&#371; apra&#353;ymas</str:Name>
+      </str:Concept>
+      <str:Concept id="ANGL_TRM_PAV" urn="urn:sdmx:org.sdmx.infomodel.conceptscheme.Concept=LB:LB_CONCEPTS(1.0).ANGL_TRM_PAV">
+        <str:Name xml:lang="en">English short name</str:Name>
+        <str:Name xml:lang="lt">Angli&#353;kas trumpas pavadinimas</str:Name>
+      </str:Concept>
+      <str:Concept id="ANGL_TRUK_APR" urn="urn:sdmx:org.sdmx.infomodel.conceptscheme.Concept=LB:LB_CONCEPTS(1.0).ANGL_TRUK_APR">
+        <str:Name xml:lang="en">Angli&#353;kas tr&#363;ki&#371; apra&#353;ymas</str:Name>
+        <str:Name xml:lang="lt">Angli&#353;kas tr&#363;ki&#371; apra&#353;ymas</str:Name>
+      </str:Concept>
+      <str:Concept id="APREPTIS" urn="urn:sdmx:org.sdmx.infomodel.conceptscheme.Concept=LB:LB_CONCEPTS(1.0).APREPTIS">
+        <str:Name xml:lang="en">Coverage</str:Name>
+        <str:Name xml:lang="lt">Apr&#279;ptis</str:Name>
+        <str:TextFormat textType="String" />
+      </str:Concept>
+      <str:Concept id="APREPTIS_UVR" urn="urn:sdmx:org.sdmx.infomodel.conceptscheme.Concept=LB:LB_CONCEPTS(1.0).APREPTIS_UVR">
+        <str:Name xml:lang="lt">Apr&#279;ptis</str:Name>
+      </str:Concept>
+      <str:Concept id="APREP_VEIKLA" urn="urn:sdmx:org.sdmx.infomodel.conceptscheme.Concept=LB:LB_CONCEPTS(1.0).APREP_VEIKLA">
+        <str:Name xml:lang="en">Interest rate business coverage</str:Name>
+        <str:Name xml:lang="lt">Apr&#279;piama veikla</str:Name>
+        <str:TextFormat textType="String" />
+      </str:Concept>
+      <str:Concept id="AREA" urn="urn:sdmx:org.sdmx.infomodel.conceptscheme.Concept=LB:LB_CONCEPTS(1.0).AREA">
+        <str:Name xml:lang="en">Area code list</str:Name>
+        <str:Name xml:lang="lt">Ekonomini&#371; erdvi&#371; kod&#371; s&#261;ra&#353;as</str:Name>
+      </str:Concept>
+      <str:Concept id="ATSK_ERDVE" urn="urn:sdmx:org.sdmx.infomodel.conceptscheme.Concept=LB:LB_CONCEPTS(1.0).ATSK_ERDVE">
+        <str:Name xml:lang="en">Reporting area</str:Name>
+        <str:Name xml:lang="lt">Atskaitingoji ekonomin&#279; erdv&#279;</str:Name>
+      </str:Concept>
+      <str:Concept id="ATSK_SEKT" urn="urn:sdmx:org.sdmx.infomodel.conceptscheme.Concept=LB:LB_CONCEPTS(1.0).ATSK_SEKT">
+        <str:Name xml:lang="en">Reporting sector</str:Name>
+        <str:Name xml:lang="lt">Atskaitingasis sektorius</str:Name>
+      </str:Concept>
+      <str:Concept id="ATS_STR" urn="urn:sdmx:org.sdmx.infomodel.conceptscheme.Concept=LB:LB_CONCEPTS(1.0).ATS_STR">
+        <str:Name xml:lang="en">Reporting sheet item</str:Name>
+        <str:Name xml:lang="lt">Atskaitomyb&#279;s straipsnis</str:Name>
+      </str:Concept>
+      <str:Concept id="BAL_STR" urn="urn:sdmx:org.sdmx.infomodel.conceptscheme.Concept=LB:LB_CONCEPTS(1.0).BAL_STR">
+        <str:Name xml:lang="en">Balance sheet item</str:Name>
+        <str:Name xml:lang="lt">Balanso straipsnis</str:Name>
+      </str:Concept>
+      <str:Concept id="BAZE" urn="urn:sdmx:org.sdmx.infomodel.conceptscheme.Concept=LB:LB_CONCEPTS(1.0).BAZE">
+        <str:Name xml:lang="lt">Bazini&#371; laikotarpi&#371; kod&#371; s&#261;ra&#353;as</str:Name>
+        <str:Name xml:lang="en">Base period code list</str:Name>
+      </str:Concept>
+    <str:Concept id="BAZ_IND_LAIK" urn="urn:sdmx:org.sdmx.infomodel.conceptscheme.Concept=LB:LB_CONCEPTS(1.0).BAZ_IND_LAIK">
+        <str:Name xml:lang="en">Bazinis indekso laikotarpis</str:Name>
+        <str:Name xml:lang="lt">Bazinis indekso laikotarpis</str:Name>
+      </str:Concept>
+      <str:Concept id="BF" urn="urn:sdmx:org.sdmx.infomodel.conceptscheme.Concept=LB:LB_CONCEPTS(1.0).BF">
+        <str:Name xml:lang="en">Observation state formula</str:Name>
+        <str:Name xml:lang="lt">Stebinio b&#363;kl&#279;s formul&#279;</str:Name>
+      </str:Concept>
+      <str:Concept id="DAZN" urn="urn:sdmx:org.sdmx.infomodel.conceptscheme.Concept=LB:LB_CONCEPTS(1.0).DAZN">
+        <str:Name xml:lang="en">Frequency</str:Name>
+        <str:Name xml:lang="lt">Da&#382;numas</str:Name>
+      </str:Concept>
+      <str:Concept id="DB_ATSK_SEKT" urn="urn:sdmx:org.sdmx.infomodel.conceptscheme.Concept=LB:LB_CONCEPTS(1.0).DB_ATSK_SEKT">
+        <str:Name xml:lang="lt">Draudimo bendrovi&#371; statistikos atskaitingasis sektorius</str:Name>
+      </str:Concept>
+      <str:Concept id="DB_BAL_STR" urn="urn:sdmx:org.sdmx.infomodel.conceptscheme.Concept=LB:LB_CONCEPTS(1.0).DB_BAL_STR">
+        <str:Name xml:lang="lt">Draudimo bendrovi&#371; statistikos balanso straipsnis</str:Name>
+      </str:Concept>
+      <str:Concept id="DB_SAND_VAL" urn="urn:sdmx:org.sdmx.infomodel.conceptscheme.Concept=LB:LB_CONCEPTS(1.0).DB_SAND_VAL">
+        <str:Name xml:lang="lt">Draudimo bendrovi&#371; statistikos sandorio valiuta</str:Name>
+      </str:Concept>
+    <str:Concept id="DB_TERM" urn="urn:sdmx:org.sdmx.infomodel.conceptscheme.Concept=LB:LB_CONCEPTS(1.0).DB_TERM">
+        <str:Name xml:lang="lt">Draudimo bendrovi&#371; statistikos terminas</str:Name>
+      </str:Concept>
+      <str:Concept id="DB_VEIK_STR" urn="urn:sdmx:org.sdmx.infomodel.conceptscheme.Concept=LB:LB_CONCEPTS(1.0).DB_VEIK_STR">
+        <str:Name xml:lang="lt">Draudimo bendrovi&#371; statistikos veiklos straipsnis</str:Name>
+      </str:Concept>
+      <str:Concept id="DB_VIEN" urn="urn:sdmx:org.sdmx.infomodel.conceptscheme.Concept=LB:LB_CONCEPTS(1.0).DB_VIEN">
+        <str:Name xml:lang="lt">Draudimo bendrov&#279;s vienetas</str:Name>
+      </str:Concept>
+    <str:Concept id="DES_TRUPM_TIKSL" urn="urn:sdmx:org.sdmx.infomodel.conceptscheme.Concept=LB:LB_CONCEPTS(1.0).DES_TRUPM_TIKSL">
+        <str:Name xml:lang="en">Decimals</str:Name>
+        <str:Name xml:lang="lt">De&#353;imtain&#279;s trupmenos tikslumas</str:Name>
+      </str:Concept>
+      <str:Concept id="DUOM_PUBL" urn="urn:sdmx:org.sdmx.infomodel.conceptscheme.Concept=LB:LB_CONCEPTS(1.0).DUOM_PUBL">
+        <str:Name xml:lang="en">Source publication</str:Name>
+        <str:Name xml:lang="lt">Duomenys publikuoti</str:Name>
+        <str:TextFormat textType="String" />
+      </str:Concept>
+      <str:Concept id="DUOM_RUSIS" urn="urn:sdmx:org.sdmx.infomodel.conceptscheme.Concept=LB:LB_CONCEPTS(1.0).DUOM_RUSIS">
+        <str:Name xml:lang="lt">Duomen&#371; r&#363;&#353;is</str:Name>
+        <str:Name xml:lang="en">Data type</str:Name>
+      </str:Concept>
+      <str:Concept id="DUOM_TIEK" urn="urn:sdmx:org.sdmx.infomodel.conceptscheme.Concept=LB:LB_CONCEPTS(1.0).DUOM_TIEK">
+        <str:Name xml:lang="en">Source agency</str:Name>
+        <str:Name xml:lang="lt">Duomen&#371; teik&#279;jas</str:Name>
+        <str:TextFormat textType="String" />
+      </str:Concept>
+      <str:Concept id="DUOM_TIPAS" urn="urn:sdmx:org.sdmx.infomodel.conceptscheme.Concept=LB:LB_CONCEPTS(1.0).DUOM_TIPAS">
+        <str:Name xml:lang="en">Data type</str:Name>
+        <str:Name xml:lang="lt">Duomen&#371; tipas</str:Name>
+      </str:Concept>
+      <str:Concept id="EIL_DENOM" urn="urn:sdmx:org.sdmx.infomodel.conceptscheme.Concept=LB:LB_CONCEPTS(1.0).EIL_DENOM">
+        <str:Name xml:lang="en">Denomination of the series</str:Name>
+        <str:Name xml:lang="lt">Eilut&#279;s denominacija</str:Name>
+      </str:Concept>
+      <str:Concept id="EK_ERDVE_UVR" urn="urn:sdmx:org.sdmx.infomodel.conceptscheme.Concept=LB:LB_CONCEPTS(1.0).EK_ERDVE_UVR">
+        <str:Name xml:lang="lt">Ekonomin&#279; erdv&#279;</str:Name>
+      </str:Concept>
+      <str:Concept id="FSS_DEBIT_EK_ERDVE" urn="urn:sdmx:org.sdmx.infomodel.conceptscheme.Concept=LB:LB_CONCEPTS(1.0).FSS_DEBIT_EK_ERDVE">
+        <str:Name xml:lang="lt">FSS debitoriaus erdv&#279;</str:Name>
+        <str:Name xml:lang="en">FAS debtor area</str:Name>
+      </str:Concept>
+      <str:Concept id="FSS_DEBIT_ERDVE" urn="urn:sdmx:org.sdmx.infomodel.conceptscheme.Concept=LB:LB_CONCEPTS(1.0).FSS_DEBIT_ERDVE">
+        <str:Name xml:lang="en">EAA debtor area</str:Name>
+        <str:Name xml:lang="lt">FSS debitoriaus erdv&#279;</str:Name>
+      </str:Concept>
+      <str:Concept id="FSS_DEBIT_SEKT" urn="urn:sdmx:org.sdmx.infomodel.conceptscheme.Concept=LB:LB_CONCEPTS(1.0).FSS_DEBIT_SEKT">
+        <str:Name xml:lang="en">EAA debtor sector</str:Name>
+        <str:Name xml:lang="lt">FSS debitoriaus sektorius</str:Name>
+      </str:Concept>
+      <str:Concept id="FSS_DEBIT_SEKT_NUOS" urn="urn:sdmx:org.sdmx.infomodel.conceptscheme.Concept=LB:LB_CONCEPTS(1.0).FSS_DEBIT_SEKT_NUOS">
+        <str:Name xml:lang="lt">FSS debitoriaus sektoriaus nuosavyb&#279;s forma</str:Name>
+        <str:Name xml:lang="en">FAS control of debtor sector</str:Name>
+      </str:Concept>
+      <str:Concept id="FSS_DUOM_TIP" urn="urn:sdmx:org.sdmx.infomodel.conceptscheme.Concept=LB:LB_CONCEPTS(1.0).FSS_DUOM_TIP">
+        <str:Name xml:lang="en">Data type in MUFAs context</str:Name>
+        <str:Name xml:lang="lt">Duomen&#371; tipas FSS kontekste</str:Name>
+      </str:Concept>
+      <str:Concept id="FSS_KREDIT_EK_ERDVE" urn="urn:sdmx:org.sdmx.infomodel.conceptscheme.Concept=LB:LB_CONCEPTS(1.0).FSS_KREDIT_EK_ERDVE">
+        <str:Name xml:lang="lt">FSS kreditoriaus erdv&#279;</str:Name>
+        <str:Name xml:lang="en">FAS creditor area</str:Name>
+      </str:Concept>
+      <str:Concept id="FSS_KRED_ERDVE" urn="urn:sdmx:org.sdmx.infomodel.conceptscheme.Concept=LB:LB_CONCEPTS(1.0).FSS_KRED_ERDVE">
+        <str:Name xml:lang="lt">FSS kreditoriaus erdv&#279;</str:Name>
+        <str:Name xml:lang="en">EAA creditor area</str:Name>
+      </str:Concept>
+      <str:Concept id="FSS_KRED_SEKT" urn="urn:sdmx:org.sdmx.infomodel.conceptscheme.Concept=LB:LB_CONCEPTS(1.0).FSS_KRED_SEKT">
+        <str:Name xml:lang="lt">FSS kreditoriaus sektorius</str:Name>
+        <str:Name xml:lang="en">EAA creditor sector</str:Name>
+      </str:Concept>
+      <str:Concept id="FSS_KRED_SEKT_NUOS" urn="urn:sdmx:org.sdmx.infomodel.conceptscheme.Concept=LB:LB_CONCEPTS(1.0).FSS_KRED_SEKT_NUOS">
+        <str:Name xml:lang="lt">FSS kreditoriaus nuosavyb&#279;s forma</str:Name>
+        <str:Name xml:lang="en">FAS control of creditor sector</str:Name>
+      </str:Concept>
+      <str:Concept id="FSS_SALTINIS" urn="urn:sdmx:org.sdmx.infomodel.conceptscheme.Concept=LB:LB_CONCEPTS(1.0).FSS_SALTINIS">
+        <str:Name xml:lang="lt">FSS &#353;altinis</str:Name>
+        <str:Name xml:lang="en">EAA source</str:Name>
+      </str:Concept>
+      <str:Concept id="FSS_SKLEIDIMAS" urn="urn:sdmx:org.sdmx.infomodel.conceptscheme.Concept=LB:LB_CONCEPTS(1.0).FSS_SKLEIDIMAS">
+        <str:Name xml:lang="lt">FSS skleidimas</str:Name>
+        <str:Name xml:lang="en">FAS source</str:Name>
+      </str:Concept>
+      <str:Concept id="FSS_STR" urn="urn:sdmx:org.sdmx.infomodel.conceptscheme.Concept=LB:LB_CONCEPTS(1.0).FSS_STR">
+        <str:Name xml:lang="en">EAA item</str:Name>
+        <str:Name xml:lang="lt">FSS straipsnis</str:Name>
+      </str:Concept>
+      <str:Concept id="FSS_VERTINIMAS" urn="urn:sdmx:org.sdmx.infomodel.conceptscheme.Concept=LB:LB_CONCEPTS(1.0).FSS_VERTINIMAS">
+        <str:Name xml:lang="lt">FSSo &#303;vertinimas</str:Name>
+        <str:Name xml:lang="en">EAAs valuation</str:Name>
+      </str:Concept>
+      <str:Concept id="GRUPE" urn="urn:sdmx:org.sdmx.infomodel.conceptscheme.Concept=LB:LB_CONCEPTS(1.0).GRUPE">
+        <str:Name xml:lang="lt">Duomen&#371; grupi&#371; s&#261;ra&#353;as</str:Name>
+        <str:Name xml:lang="en">Data category code list</str:Name>
+      </str:Concept>
+      <str:Concept id="IF_ATSK_SEKT" urn="urn:sdmx:org.sdmx.infomodel.conceptscheme.Concept=LB:LB_CONCEPTS(1.0).IF_ATSK_SEKT">
+        <str:Name xml:lang="en">Investment funds reporting sector</str:Name>
+        <str:Name xml:lang="lt">Investicini&#371; fond&#371; atskaitingieji sektoriai</str:Name>
+      </str:Concept>
+      <str:Concept id="IF_BAL_STR" urn="urn:sdmx:org.sdmx.infomodel.conceptscheme.Concept=LB:LB_CONCEPTS(1.0).IF_BAL_STR">
+        <str:Name xml:lang="en">Investment funds item</str:Name>
+        <str:Name xml:lang="lt">Investicini&#371; fond&#371; balanso straipsniai</str:Name>
+      </str:Concept>
+      <str:Concept id="IIS_ATSK_ERDVE" urn="urn:sdmx:org.sdmx.infomodel.conceptscheme.Concept=LB:LB_CONCEPTS(1.0).IIS_ATSK_ERDVE">
+        <str:Name xml:lang="en">External sector reference area</str:Name>
+        <str:Name xml:lang="lt">ISS atskaitingoji ekonomin&#279; erdv&#279;</str:Name>
+        <str:TextFormat textType="String" />
+      </str:Concept>
+      <str:Concept id="ISS_COUNT_AREA" urn="urn:sdmx:org.sdmx.infomodel.conceptscheme.Concept=LB:LB_CONCEPTS(1.0).ISS_COUNT_AREA">
+        <str:Name xml:lang="en">Counterpart area</str:Name>
+        <str:Name xml:lang="lt">ISS prie&#353;inga ekonomin&#279; erdv&#279;</str:Name>
+      </str:Concept>
+      <str:Concept id="ISS_COUNT_SEKT" urn="urn:sdmx:org.sdmx.infomodel.conceptscheme.Concept=LB:LB_CONCEPTS(1.0).ISS_COUNT_SEKT">
+        <str:Name xml:lang="en">Counterpart institutional sector in the reporting country or area</str:Name>
+        <str:Name xml:lang="lt">Prie&#353;ingos &#353;alies sektorius</str:Name>
+      </str:Concept>
+      <str:Concept id="ISS_DUOM_TIPAS" urn="urn:sdmx:org.sdmx.infomodel.conceptscheme.Concept=LB:LB_CONCEPTS(1.0).ISS_DUOM_TIPAS">
+        <str:Name xml:lang="en">BoP type of data, flow &amp; position</str:Name>
+        <str:Name xml:lang="lt">ISS duomen&#371; tipas</str:Name>
+      </str:Concept>
+      <str:Concept id="ISS_FUNKC_KATEG" urn="urn:sdmx:org.sdmx.infomodel.conceptscheme.Concept=LB:LB_CONCEPTS(1.0).ISS_FUNKC_KATEG">
+        <str:Name xml:lang="en">Functional category</str:Name>
+        <str:Name xml:lang="lt">ISS funkcin&#279;s kategorijos</str:Name>
+      </str:Concept>
+      <str:Concept id="ISS_METO" urn="urn:sdmx:org.sdmx.infomodel.conceptscheme.Concept=LB:LB_CONCEPTS(1.0).ISS_METO">
+        <str:Name xml:lang="en">Compilation methodology</str:Name>
+        <str:Name xml:lang="lt">Naudojama metodika</str:Name>
+      </str:Concept>
+      <str:Concept id="ISS_N_EK_VEIKLA_NACE2" urn="urn:sdmx:org.sdmx.infomodel.conceptscheme.Concept=LB:LB_CONCEPTS(1.0).ISS_N_EK_VEIKLA_NACE2">
+        <str:Name xml:lang="en">External sector non resident economic activity</str:Name>
+        <str:Name xml:lang="lt">ISS nerezident&#371; ekonomin&#279; veikla</str:Name>
+      </str:Concept>
+      <str:Concept id="ISS_PRIEM" urn="urn:sdmx:org.sdmx.infomodel.conceptscheme.Concept=LB:LB_CONCEPTS(1.0).ISS_PRIEM">
+        <str:Name xml:lang="en">External sector transactions in financial assets and liabilities</str:Name>
+        <str:Name xml:lang="lt">ISS finansinio turto ir &#303;sipareigojim&#371; priemon&#279;</str:Name>
+      </str:Concept>
+      <str:Concept id="ISS_PRIEM_TURT" urn="urn:sdmx:org.sdmx.infomodel.conceptscheme.Concept=LB:LB_CONCEPTS(1.0).ISS_PRIEM_TURT">
+        <str:Name xml:lang="en">Instrument and assets classification</str:Name>
+        <str:Name xml:lang="lt">ISS priemon&#279;s ir turtas</str:Name>
+      </str:Concept>
+      <str:Concept id="ISS_PS_ERDVE" urn="urn:sdmx:org.sdmx.infomodel.conceptscheme.Concept=LB:LB_CONCEPTS(1.0).ISS_PS_ERDVE">
+        <str:Name xml:lang="en">External sector counterpart area</str:Name>
+        <str:Name xml:lang="lt">ISS prie&#353;ingos &#353;alies ekonomin&#279; erdv&#279;</str:Name>
+      </str:Concept>
+      <str:Concept id="ISS_REF_SEKT" urn="urn:sdmx:org.sdmx.infomodel.conceptscheme.Concept=LB:LB_CONCEPTS(1.0).ISS_REF_SEKT">
+        <str:Name xml:lang="en">Institutional sector in the Reference country or area</str:Name>
+        <str:Name xml:lang="lt">Referuojan&#269;ios &#353;alies sektorius</str:Name>
+      </str:Concept>
+      <str:Concept id="ISS_R_EK_VEIKLA_NACE2" urn="urn:sdmx:org.sdmx.infomodel.conceptscheme.Concept=LB:LB_CONCEPTS(1.0).ISS_R_EK_VEIKLA_NACE2">
+        <str:Name xml:lang="en">External sector resident economic activity</str:Name>
+        <str:Name xml:lang="lt">ISS rezident&#371; ekonomin&#279; veikla</str:Name>
+      </str:Concept>
+      <str:Concept id="ISS_SASK_IRASAI" urn="urn:sdmx:org.sdmx.infomodel.conceptscheme.Concept=LB:LB_CONCEPTS(1.0).ISS_SASK_IRASAI">
+        <str:Name xml:lang="en">Accounting enteries</str:Name>
+        <str:Name xml:lang="lt">ISS s&#261;skait&#371; &#303;ra&#353;ai</str:Name>
+      </str:Concept>
+      <str:Concept id="ISS_SEKT" urn="urn:sdmx:org.sdmx.infomodel.conceptscheme.Concept=LB:LB_CONCEPTS(1.0).ISS_SEKT">
+        <str:Name xml:lang="en">External sector institutional sector and subsector</str:Name>
+        <str:Name xml:lang="lt">ISS institucinis sektorius arba subsektorius</str:Name>
+      </str:Concept>
+      <str:Concept id="ISS_SEZ_KOREG" urn="urn:sdmx:org.sdmx.infomodel.conceptscheme.Concept=LB:LB_CONCEPTS(1.0).ISS_SEZ_KOREG">
+        <str:Name xml:lang="en">External sector adjustment indicator</str:Name>
+        <str:Name xml:lang="lt">I&#353;or&#279;s sektoriaus koregavimo d&#279;l sezoni&#353;kumo po&#382;ymis</str:Name>
+      </str:Concept>
+      <str:Concept id="ISS_STR" urn="urn:sdmx:org.sdmx.infomodel.conceptscheme.Concept=LB:LB_CONCEPTS(1.0).ISS_STR">
+        <str:Name xml:lang="en">BOP item</str:Name>
+        <str:Name xml:lang="lt">ISS straipsnis</str:Name>
+      </str:Concept>
+      <str:Concept id="ISS_TRK" urn="urn:sdmx:org.sdmx.infomodel.conceptscheme.Concept=LB:LB_CONCEPTS(1.0).ISS_TRK">
+        <str:Name xml:lang="en">Maturity</str:Name>
+        <str:Name xml:lang="lt">ISS trukm&#279;s</str:Name>
+      </str:Concept>
+      <str:Concept id="ISS_UNIT" urn="urn:sdmx:org.sdmx.infomodel.conceptscheme.Concept=LB:LB_CONCEPTS(1.0).ISS_UNIT">
+        <str:Name xml:lang="en">Unit of measure</str:Name>
+        <str:Name xml:lang="lt">Matavimo vienetai</str:Name>
+      </str:Concept>
+      <str:Concept id="ISS_VAL" urn="urn:sdmx:org.sdmx.infomodel.conceptscheme.Concept=LB:LB_CONCEPTS(1.0).ISS_VAL">
+        <str:Name xml:lang="en">Currency of denomination</str:Name>
+        <str:Name xml:lang="lt">Valiutos vert&#279;</str:Name>
+      </str:Concept>
+      <str:Concept id="ISS_VERT" urn="urn:sdmx:org.sdmx.infomodel.conceptscheme.Concept=LB:LB_CONCEPTS(1.0).ISS_VERT">
+        <str:Name xml:lang="en">Valuation</str:Name>
+        <str:Name xml:lang="lt">Vertinimas</str:Name>
+      </str:Concept>
+      <str:Concept id="IVEST_IRENG" urn="urn:sdmx:org.sdmx.infomodel.conceptscheme.Concept=LB:LB_CONCEPTS(1.0).IVEST_IRENG">
+        <str:Name xml:lang="en">Payment &amp; settlement system entry point code list</str:Name>
+        <str:Name xml:lang="lt">&#302;vesties &#303;rengini&#371; kod&#371; s&#261;ra&#353;as</str:Name>
+      </str:Concept>
+      <str:Concept id="LAIKO_FORMAT" urn="urn:sdmx:org.sdmx.infomodel.conceptscheme.Concept=LB:LB_CONCEPTS(1.0).LAIKO_FORMAT">
+        <str:Name xml:lang="en">Time format</str:Name>
+        <str:Name xml:lang="lt">Laiko formatas</str:Name>
+      </str:Concept>
+      <str:Concept id="LAIKO_PER" urn="urn:sdmx:org.sdmx.infomodel.conceptscheme.Concept=LB:LB_CONCEPTS(1.0).LAIKO_PER">
+        <str:Name xml:lang="en">Time period or range</str:Name>
+        <str:Name xml:lang="lt">Laiko periodas arba r&#279;&#382;is</str:Name>
+      </str:Concept>
+      <str:Concept id="LIET_ILG_PAV" urn="urn:sdmx:org.sdmx.infomodel.conceptscheme.Concept=LB:LB_CONCEPTS(1.0).LIET_ILG_PAV">
+        <str:Name xml:lang="en">Lithuanian long name</str:Name>
+        <str:Name xml:lang="lt">Lietuvi&#353;kas ilgas pavadinimas</str:Name>
+      </str:Concept>
+      <str:Concept id="LIET_SUD_MET_APR" urn="urn:sdmx:org.sdmx.infomodel.conceptscheme.Concept=LB:LB_CONCEPTS(1.0).LIET_SUD_MET_APR">
+        <str:Name xml:lang="en">Lietuvi&#353;kas sudarymo metod&#371; apra&#353;ymas</str:Name>
+        <str:Name xml:lang="lt">Lietuvi&#353;kas sudarymo metod&#371; apra&#353;ymas</str:Name>
+      </str:Concept>
+      <str:Concept id="LIET_TRM_PAV" urn="urn:sdmx:org.sdmx.infomodel.conceptscheme.Concept=LB:LB_CONCEPTS(1.0).LIET_TRM_PAV">
+        <str:Name xml:lang="en">Lithuanian short name</str:Name>
+        <str:Name xml:lang="lt">Lietuvi&#353;kas trumpas pavadinimas</str:Name>
+      </str:Concept>
+      <str:Concept id="LIET_TRUK_APR" urn="urn:sdmx:org.sdmx.infomodel.conceptscheme.Concept=LB:LB_CONCEPTS(1.0).LIET_TRUK_APR">
+        <str:Name xml:lang="en">Lietuvi&#353;kas tr&#363;ki&#371; apra&#353;ymas</str:Name>
+        <str:Name xml:lang="lt">Lietuvi&#353;kas tr&#363;ki&#371; apra&#353;ymas</str:Name>
+      </str:Concept>
+      <str:Concept id="LIKUT_TERM" urn="urn:sdmx:org.sdmx.infomodel.conceptscheme.Concept=LB:LB_CONCEPTS(1.0).LIKUT_TERM">
+        <str:Name xml:lang="en">Outstanding maturity</str:Name>
+        <str:Name xml:lang="lt">Likutinis terminas</str:Name>
+      </str:Concept>
+      <str:Concept id="MAK_ROD_DUOM_TIPAS" urn="urn:sdmx:org.sdmx.infomodel.conceptscheme.Concept=LB:LB_CONCEPTS(1.0).MAK_ROD_DUOM_TIPAS">
+        <str:Name xml:lang="en">Macro-prudential indicators data type</str:Name>
+        <str:Name xml:lang="lt">Makroprudencini&#371; rodikli&#371; duomen&#371; tipas</str:Name>
+      </str:Concept>
+      <str:Concept id="MAK_ROD_STR" urn="urn:sdmx:org.sdmx.infomodel.conceptscheme.Concept=LB:LB_CONCEPTS(1.0).MAK_ROD_STR">
+        <str:Name xml:lang="en">Macro-prudential indicators item</str:Name>
+        <str:Name xml:lang="lt">Makroprudencini&#371; rodikli&#371; straipsnis</str:Name>
+      </str:Concept>
+      <str:Concept id="MAT_VIEN" urn="urn:sdmx:org.sdmx.infomodel.conceptscheme.Concept=LB:LB_CONCEPTS(1.0).MAT_VIEN">
+        <str:Name xml:lang="en">Unit</str:Name>
+        <str:Name xml:lang="lt">Matavimo vienetas</str:Name>
+      </str:Concept>
+      <str:Concept id="MAT_VIEN_DAUG" urn="urn:sdmx:org.sdmx.infomodel.conceptscheme.Concept=LB:LB_CONCEPTS(1.0).MAT_VIEN_DAUG">
+        <str:Name xml:lang="en">Unit multiplier</str:Name>
+        <str:Name xml:lang="lt">Matavimo vieneto daugiklis</str:Name>
+      </str:Concept>
+      <str:Concept id="MOK_PRIEM" urn="urn:sdmx:org.sdmx.infomodel.conceptscheme.Concept=LB:LB_CONCEPTS(1.0).MOK_PRIEM">
+        <str:Name xml:lang="en">Payment &amp; settlement system instrument code list</str:Name>
+        <str:Name xml:lang="lt">Mok&#279;jimo priemoni&#371; kod&#371; s&#261;ra&#353;as</str:Name>
+      </str:Concept>
+      <str:Concept id="MSS_ATSK_SEKT" urn="urn:sdmx:org.sdmx.infomodel.conceptscheme.Concept=LB:LB_CONCEPTS(1.0).MSS_ATSK_SEKT">
+        <str:Name xml:lang="en">PSS reference sector breakdown code list</str:Name>
+        <str:Name xml:lang="lt">MSS atskaiting&#371; sektori&#371; kod&#371; s&#261;ra&#353;as</str:Name>
+      </str:Concept>
+      <str:Concept id="MSS_DUOM_TIP" urn="urn:sdmx:org.sdmx.infomodel.conceptscheme.Concept=LB:LB_CONCEPTS(1.0).MSS_DUOM_TIP">
+        <str:Name xml:lang="en">Payment &amp; settlement system data type code list</str:Name>
+        <str:Name xml:lang="lt">MSS duomen&#371; tip&#371; kod&#371; s&#261;ra&#353;as</str:Name>
+      </str:Concept>
+      <str:Concept id="MSS_INF_TIP" urn="urn:sdmx:org.sdmx.infomodel.conceptscheme.Concept=LB:LB_CONCEPTS(1.0).MSS_INF_TIP">
+        <str:Name xml:lang="en">PSS information type code list</str:Name>
+        <str:Name xml:lang="lt">MSS informacijos tip&#371; kod&#371; s&#261;ra&#353;as</str:Name>
+        <str:TextFormat textType="String" />
+      </str:Concept>
+      <str:Concept id="NSA_ACCOUNTING_ENTRIES" urn="urn:sdmx:org.sdmx.infomodel.conceptscheme.Concept=LB:LB_CONCEPTS(1.0).NSA_ACCOUNTING_ENTRIES">
+        <str:Name xml:lang="lt">S&#261;skait&#371; &#303;ra&#353;&#371; kod&#371; s&#261;ra&#353;as</str:Name>
+      </str:Concept>
+      <str:Concept id="NSA_ADJUSTMENT_INDICATOR" urn="urn:sdmx:org.sdmx.infomodel.conceptscheme.Concept=LB:LB_CONCEPTS(1.0).NSA_ADJUSTMENT_INDICATOR">
+        <str:Name xml:lang="lt">Koregavimo d&#279;l sezoni&#353;kumo po&#382;ymis</str:Name>
+      </str:Concept>
+      <str:Concept id="NSA_COFOG" urn="urn:sdmx:org.sdmx.infomodel.conceptscheme.Concept=LB:LB_CONCEPTS(1.0).NSA_COFOG">
+        <str:Name xml:lang="lt">Vald&#382;ios sektoriaus i&#353;laid&#371; klasifikacija</str:Name>
+      </str:Concept>
+      <str:Concept id="NSA_CONSOLIDATION_STATUS" urn="urn:sdmx:org.sdmx.infomodel.conceptscheme.Concept=LB:LB_CONCEPTS(1.0).NSA_CONSOLIDATION_STATUS">
+        <str:Name xml:lang="lt">Konsolidavimo lygmens po&#382;ymi&#371; s&#261;ra&#353;as</str:Name>
+      </str:Concept>
+      <str:Concept id="NSA_COUNTERPART_AREA" urn="urn:sdmx:org.sdmx.infomodel.conceptscheme.Concept=LB:LB_CONCEPTS(1.0).NSA_COUNTERPART_AREA">
+        <str:Name xml:lang="lt">Prie&#353;ini&#371; ekonomini&#371; erdvi&#371; kod&#371; s&#261;ra&#353;as</str:Name>
+      </str:Concept>
+      <str:Concept id="NSA_COUNTERPART_SECTOR" urn="urn:sdmx:org.sdmx.infomodel.conceptscheme.Concept=LB:LB_CONCEPTS(1.0).NSA_COUNTERPART_SECTOR">
+        <str:Name xml:lang="lt">Prie&#353;ini&#371; institucini&#371; sektori&#371; ir subsektori&#371; kod&#371; s&#261;ra&#353;as</str:Name>
+      </str:Concept>
+      <str:Concept id="NSA_CURRENCY_DENOMINATOR" urn="urn:sdmx:org.sdmx.infomodel.conceptscheme.Concept=LB:LB_CONCEPTS(1.0).NSA_CURRENCY_DENOMINATOR">
+        <str:Name xml:lang="lt">Valiut&#371; kod&#371; s&#261;ra&#353;as</str:Name>
+      </str:Concept>
+      <str:Concept id="NSA_CUSTOM_BREAKDOWN" urn="urn:sdmx:org.sdmx.infomodel.conceptscheme.Concept=LB:LB_CONCEPTS(1.0).NSA_CUSTOM_BREAKDOWN">
+        <str:Name xml:lang="lt">Pasirinktinis suskirstymas</str:Name>
+      </str:Concept>
+      <str:Concept id="NSA_FREQUENCY" urn="urn:sdmx:org.sdmx.infomodel.conceptscheme.Concept=LB:LB_CONCEPTS(1.0).NSA_FREQUENCY">
+        <str:Name xml:lang="lt">Da&#382;numas</str:Name>
+      </str:Concept>
+      <str:Concept id="NSA_INSTRUMENTS_ASSETS" urn="urn:sdmx:org.sdmx.infomodel.conceptscheme.Concept=LB:LB_CONCEPTS(1.0).NSA_INSTRUMENTS_ASSETS">
+        <str:Name xml:lang="lt">Finansini&#371; priemoni&#371; kod&#371; s&#261;ra&#353;as</str:Name>
+      </str:Concept>
+      <str:Concept id="NSA_MATURITY" urn="urn:sdmx:org.sdmx.infomodel.conceptscheme.Concept=LB:LB_CONCEPTS(1.0).NSA_MATURITY">
+        <str:Name xml:lang="lt">Trukmi&#371; kod&#371; s&#261;ra&#353;as</str:Name>
+      </str:Concept>
+      <str:Concept id="NSA_PRICES" urn="urn:sdmx:org.sdmx.infomodel.conceptscheme.Concept=LB:LB_CONCEPTS(1.0).NSA_PRICES">
+        <str:Name xml:lang="lt">Bazini&#371; laikotarpi&#371; kod&#371; s&#261;ra&#353;as</str:Name>
+      </str:Concept>
+      <str:Concept id="NSA_REFERENCE_AREA" urn="urn:sdmx:org.sdmx.infomodel.conceptscheme.Concept=LB:LB_CONCEPTS(1.0).NSA_REFERENCE_AREA">
+        <str:Name xml:lang="lt">Ekonomini&#371; erdvi&#371; kod&#371; s&#261;ra&#353;as</str:Name>
+      </str:Concept>
+      <str:Concept id="NSA_REFERENCE_SECTOR" urn="urn:sdmx:org.sdmx.infomodel.conceptscheme.Concept=LB:LB_CONCEPTS(1.0).NSA_REFERENCE_SECTOR">
+        <str:Name xml:lang="lt">Institucini&#371; sektori&#371; ir subsektori&#371; kod&#371; s&#261;ra&#353;as</str:Name>
+      </str:Concept>
+      <str:Concept id="NSA_STOCKS_TRANSACTIONS" urn="urn:sdmx:org.sdmx.infomodel.conceptscheme.Concept=LB:LB_CONCEPTS(1.0).NSA_STOCKS_TRANSACTIONS">
+        <str:Name xml:lang="lt">Duomen&#371; tip&#371; kod&#371; s&#261;ra&#353;as</str:Name>
+      </str:Concept>
+      <str:Concept id="NSA_TRANSFORMATION" urn="urn:sdmx:org.sdmx.infomodel.conceptscheme.Concept=LB:LB_CONCEPTS(1.0).NSA_TRANSFORMATION">
+        <str:Name xml:lang="lt">Transformacij&#371; kod&#371; s&#261;ra&#353;as</str:Name>
+      </str:Concept>
+      <str:Concept id="NSA_UNIT_OF_MEASURE" urn="urn:sdmx:org.sdmx.infomodel.conceptscheme.Concept=LB:LB_CONCEPTS(1.0).NSA_UNIT_OF_MEASURE">
+        <str:Name xml:lang="lt">Matavimo vienet&#371; kod&#371; s&#261;ra&#353;as</str:Name>
+      </str:Concept>
+      <str:Concept id="NSA_VALUATION" urn="urn:sdmx:org.sdmx.infomodel.conceptscheme.Concept=LB:LB_CONCEPTS(1.0).NSA_VALUATION">
+        <str:Name xml:lang="lt">Vertinim&#371; kod&#371; s&#261;ra&#353;as</str:Name>
+      </str:Concept>
+      <str:Concept id="PASK_DYDIS" urn="urn:sdmx:org.sdmx.infomodel.conceptscheme.Concept=LB:LB_CONCEPTS(1.0).PASK_DYDIS">
+        <str:Name xml:lang="en">Amount category</str:Name>
+        <str:Name xml:lang="lt">Paskolos dydis</str:Name>
+        <str:TextFormat textType="String" />
+      </str:Concept>
+      <str:Concept id="PASK_UZT_PRIEM" urn="urn:sdmx:org.sdmx.infomodel.conceptscheme.Concept=LB:LB_CONCEPTS(1.0).PASK_UZT_PRIEM">
+        <str:Name xml:lang="en">Paskolos u&#382;tikrinimo priemon&#279;</str:Name>
+        <str:Name xml:lang="lt">Paskolos u&#382;tikrinimo priemon&#279;</str:Name>
+      </str:Concept>
+      <str:Concept id="PF_ATSK_SEKT" urn="urn:sdmx:org.sdmx.infomodel.conceptscheme.Concept=LB:LB_CONCEPTS(1.0).PF_ATSK_SEKT">
+        <str:Name xml:lang="lt">Pensij&#371; fond&#371; statistikos atskaitingasis sektorius</str:Name>
+      </str:Concept>
+      <str:Concept id="PF_BAL_STR" urn="urn:sdmx:org.sdmx.infomodel.conceptscheme.Concept=LB:LB_CONCEPTS(1.0).PF_BAL_STR">
+        <str:Name xml:lang="lt">Pensij&#371; fond&#371; statistikos balanso straipsnis</str:Name>
+      </str:Concept>
+      <str:Concept id="PF_DALYV" urn="urn:sdmx:org.sdmx.infomodel.conceptscheme.Concept=LB:LB_CONCEPTS(1.0).PF_DALYV">
+        <str:Name xml:lang="lt">Pensij&#371; fond&#371; dalyviai</str:Name>
+      </str:Concept>
+    <str:Concept id="PF_PS_ERDVE" urn="urn:sdmx:org.sdmx.infomodel.conceptscheme.Concept=LB:LB_CONCEPTS(1.0).PF_PS_ERDVE">
+        <str:Name xml:lang="lt">Pensij&#371; fond&#371; statistikos prie&#353;ingos &#353;alies ekonomin&#279; erdv&#279;</str:Name>
+      </str:Concept>
+      <str:Concept id="PF_SAND_VAL" urn="urn:sdmx:org.sdmx.infomodel.conceptscheme.Concept=LB:LB_CONCEPTS(1.0).PF_SAND_VAL">
+        <str:Name xml:lang="lt">Pensij&#371; fond&#371; statistikos sandorio valiuta</str:Name>
+      </str:Concept>
+      <str:Concept id="PF_SEKT" urn="urn:sdmx:org.sdmx.infomodel.conceptscheme.Concept=LB:LB_CONCEPTS(1.0).PF_SEKT">
+        <str:Name xml:lang="lt">Pensij&#371; fond&#371; statistikos institucinis sektorius</str:Name>
+      </str:Concept>
+      <str:Concept id="PF_TERM" urn="urn:sdmx:org.sdmx.infomodel.conceptscheme.Concept=LB:LB_CONCEPTS(1.0).PF_TERM">
+        <str:Name xml:lang="lt">Pensij&#371; fond&#371; statistikos terminas</str:Name>
+      </str:Concept>
+      <str:Concept id="PNS_DUOM_TIPAS" urn="urn:sdmx:org.sdmx.infomodel.conceptscheme.Concept=LB:LB_CONCEPTS(1.0).PNS_DUOM_TIPAS">
+        <str:Name xml:lang="en">MIR data type</str:Name>
+        <str:Name xml:lang="lt">Pinig&#371; finansini&#371; institucij&#371; pal&#363;kan&#371; norm&#371; duomen&#371; tipas</str:Name>
+        <str:TextFormat textType="String" />
+      </str:Concept>
+      <str:Concept id="PPS_ERDVE" urn="urn:sdmx:org.sdmx.infomodel.conceptscheme.Concept=LB:LB_CONCEPTS(1.0).PPS_ERDVE">
+        <str:Name xml:lang="en">Area of counterparty in the transfer</str:Name>
+        <str:Name xml:lang="lt">Perdavimo prie&#353;ingos &#353;alies ekonomin&#279; erdv&#279;</str:Name>
+        <str:TextFormat textType="String" />
+      </str:Concept>
+      <str:Concept id="PPS_SEKT" urn="urn:sdmx:org.sdmx.infomodel.conceptscheme.Concept=LB:LB_CONCEPTS(1.0).PPS_SEKT">
+        <str:Name xml:lang="en">Sector of counterparty in the transfer</str:Name>
+        <str:Name xml:lang="lt">Perdavimo prie&#353;ingos &#353;alies sektorius</str:Name>
+        <str:TextFormat textType="String" />
+      </str:Concept>
+      <str:Concept id="PRAD_TERM" urn="urn:sdmx:org.sdmx.infomodel.conceptscheme.Concept=LB:LB_CONCEPTS(1.0).PRAD_TERM">
+        <str:Name xml:lang="en">Original maturity</str:Name>
+        <str:Name xml:lang="lt">Pradinis terminas</str:Name>
+      </str:Concept>
+      <str:Concept id="PRAD_TRUKME" urn="urn:sdmx:org.sdmx.infomodel.conceptscheme.Concept=LB:LB_CONCEPTS(1.0).PRAD_TRUKME">
+        <str:Name xml:lang="en">Original maturity</str:Name>
+        <str:Name xml:lang="lt">Pradin&#279; trukm&#279;</str:Name>
+      </str:Concept>
+      <str:Concept id="PRDB_ATSK_SEKT" urn="urn:sdmx:org.sdmx.infomodel.conceptscheme.Concept=LB:LB_CONCEPTS(1.0).PRDB_ATSK_SEKT">
+        <str:Name xml:lang="en">PRDB reporting sector</str:Name>
+        <str:Name xml:lang="lt">PRDB atskaitingasis sektorius</str:Name>
+      </str:Concept>
+      <str:Concept id="PRIESINGA_SALIS" urn="urn:sdmx:org.sdmx.infomodel.conceptscheme.Concept=LB:LB_CONCEPTS(1.0).PRIESINGA_SALIS">
+        <str:Name xml:lang="lt">Prie&#353;inga &#353;alis</str:Name>
+      </str:Concept>
+      <str:Concept id="PS_EKON_VEIKL_RUS" urn="urn:sdmx:org.sdmx.infomodel.conceptscheme.Concept=LB:LB_CONCEPTS(1.0).PS_EKON_VEIKL_RUS">
+        <str:Name xml:lang="en">Counterpart type</str:Name>
+        <str:Name xml:lang="lt">Prie&#353;ingos &#353;alies ekonomin&#279;s veiklos r&#363;&#353;is</str:Name>
+      </str:Concept>
+      <str:Concept id="PS_ERDVE" urn="urn:sdmx:org.sdmx.infomodel.conceptscheme.Concept=LB:LB_CONCEPTS(1.0).PS_ERDVE">
+        <str:Name xml:lang="en">Counterpart area</str:Name>
+        <str:Name xml:lang="lt">Prie&#353;ingos &#353;alies ekonomin&#279; erdv&#279;</str:Name>
+      </str:Concept>
+      <str:Concept id="PS_SEKT" urn="urn:sdmx:org.sdmx.infomodel.conceptscheme.Concept=LB:LB_CONCEPTS(1.0).PS_SEKT">
+        <str:Name xml:lang="en">Counterpart sector</str:Name>
+        <str:Name xml:lang="lt">Prie&#353;ingos &#353;alies sektorius</str:Name>
+      </str:Concept>
+      <str:Concept id="PUBL_SALT" urn="urn:sdmx:org.sdmx.infomodel.conceptscheme.Concept=LB:LB_CONCEPTS(1.0).PUBL_SALT">
+        <str:Name xml:lang="en">Source publication</str:Name>
+        <str:Name xml:lang="lt">Skelbimo &#353;altinis</str:Name>
+        <str:TextFormat textType="String" />
+      </str:Concept>
+      <str:Concept id="PUBL_VIESAS" urn="urn:sdmx:org.sdmx.infomodel.conceptscheme.Concept=LB:LB_CONCEPTS(1.0).PUBL_VIESAS">
+        <str:Name xml:lang="en">Source publication (public)</str:Name>
+        <str:Name xml:lang="lt">Duomenys publikuoti (vie&#353;ai)</str:Name>
+        <str:TextFormat textType="String" />
+      </str:Concept>
+      <str:Concept id="RF" urn="urn:sdmx:org.sdmx.infomodel.conceptscheme.Concept=LB:LB_CONCEPTS(1.0).RF">
+        <str:Name xml:lang="en">Observation formula</str:Name>
+        <str:Name xml:lang="lt">Stebinio formul&#279;</str:Name>
+      </str:Concept>
+      <str:Concept id="RINK_ROD" urn="urn:sdmx:org.sdmx.infomodel.conceptscheme.Concept=LB:LB_CONCEPTS(1.0).RINK_ROD">
+        <str:Name xml:lang="en">Collection indicator</str:Name>
+        <str:Name xml:lang="lt">Rinkimo rodiklis</str:Name>
+      </str:Concept>
+      <str:Concept id="RODIKL" urn="urn:sdmx:org.sdmx.infomodel.conceptscheme.Concept=LB:LB_CONCEPTS(1.0).RODIKL">
+        <str:Name xml:lang="lt">Duomen&#371; grupi&#371; rodikli&#371; kod&#371; s&#261;ra&#353;as</str:Name>
+        <str:Name xml:lang="en">Data category indicator code list</str:Name>
+      </str:Concept>
+      <str:Concept id="SAND_TIPAS" urn="urn:sdmx:org.sdmx.infomodel.conceptscheme.Concept=LB:LB_CONCEPTS(1.0).SAND_TIPAS">
+        <str:Name xml:lang="lt">Sandori&#371; r&#363;&#353;ys</str:Name>
+      </str:Concept>
+      <str:Concept id="SAND_TIPAS_UVR" urn="urn:sdmx:org.sdmx.infomodel.conceptscheme.Concept=LB:LB_CONCEPTS(1.0).SAND_TIPAS_UVR">
+        <str:Name xml:lang="lt">Sandorio tipas</str:Name>
+      </str:Concept>
+      <str:Concept id="SAND_VAL" urn="urn:sdmx:org.sdmx.infomodel.conceptscheme.Concept=LB:LB_CONCEPTS(1.0).SAND_VAL">
+        <str:Name xml:lang="en">Currency of transaction</str:Name>
+        <str:Name xml:lang="lt">Sandorio valiuta</str:Name>
+      </str:Concept>
+      <str:Concept id="SANT_TIPAS" urn="urn:sdmx:org.sdmx.infomodel.conceptscheme.Concept=LB:LB_CONCEPTS(1.0).SANT_TIPAS">
+        <str:Name xml:lang="en">Type of exchange rate</str:Name>
+        <str:Name xml:lang="lt">Valiutos santykio tipas</str:Name>
+        <str:TextFormat textType="String" />
+      </str:Concept>
+      <str:Concept id="SB" urn="urn:sdmx:org.sdmx.infomodel.conceptscheme.Concept=LB:LB_CONCEPTS(1.0).SB">
+        <str:Name xml:lang="en">Observation status</str:Name>
+        <str:Name xml:lang="lt">Stebinio b&#363;kl&#279;</str:Name>
+      </str:Concept>
+      <str:Concept id="SEZ_KOREG" urn="urn:sdmx:org.sdmx.infomodel.conceptscheme.Concept=LB:LB_CONCEPTS(1.0).SEZ_KOREG">
+        <str:Name xml:lang="en">Seasonal adjustment indicator</str:Name>
+        <str:Name xml:lang="lt">Koregavimo d&#279;l sezoni&#353;kumo po&#382;ymis</str:Name>
+      </str:Concept>
+      <str:Concept id="SK" urn="urn:sdmx:org.sdmx.infomodel.conceptscheme.Concept=LB:LB_CONCEPTS(1.0).SK">
+        <str:Name xml:lang="en">Observation confidentiality</str:Name>
+        <str:Name xml:lang="lt">Stebinio konfidencialumas</str:Name>
+      </str:Concept>
+      <str:Concept id="SKOL_DYDIS" urn="urn:sdmx:org.sdmx.infomodel.conceptscheme.Concept=LB:LB_CONCEPTS(1.0).SKOL_DYDIS">
+        <str:Name xml:lang="en">Debtor size</str:Name>
+        <str:Name xml:lang="lt">Skolininko dydis</str:Name>
+      </str:Concept>
+      <str:Concept id="SKOL_ISIPAR_VYKD" urn="urn:sdmx:org.sdmx.infomodel.conceptscheme.Concept=LB:LB_CONCEPTS(1.0).SKOL_ISIPAR_VYKD">
+        <str:Name xml:lang="en">Skolininko &#303;sipareigojim&#371; vykdymas</str:Name>
+        <str:Name xml:lang="lt">Skolininko &#303;sipareigojim&#371; vykdymas</str:Name>
+      </str:Concept>
+      <str:Concept id="SKOL_RUSIS" urn="urn:sdmx:org.sdmx.infomodel.conceptscheme.Concept=LB:LB_CONCEPTS(1.0).SKOL_RUSIS">
+        <str:Name xml:lang="lt">Skolinimo r&#363;&#353;ys</str:Name>
+      </str:Concept>
+      <str:Concept id="SKOL_TIPAS" urn="urn:sdmx:org.sdmx.infomodel.conceptscheme.Concept=LB:LB_CONCEPTS(1.0).SKOL_TIPAS">
+        <str:Name xml:lang="en">Debtor type</str:Name>
+        <str:Name xml:lang="lt">Skolininko tipas</str:Name>
+      </str:Concept>
+      <str:Concept id="SR" urn="urn:sdmx:org.sdmx.infomodel.conceptscheme.Concept=LB:LB_CONCEPTS(1.0).SR">
+        <str:Name xml:lang="en">Observation value</str:Name>
+        <str:Name xml:lang="lt">Stebinio reik&#353;m&#279;</str:Name>
+      </str:Concept>
+      <str:Concept id="ST_POS" urn="urn:sdmx:org.sdmx.infomodel.conceptscheme.Concept=LB:LB_CONCEPTS(1.0).ST_POS">
+        <str:Name xml:lang="en">Statistical subarea</str:Name>
+        <str:Name xml:lang="lt">Statistikos posritis</str:Name>
+      </str:Concept>
+      <str:Concept id="ST_SR" urn="urn:sdmx:org.sdmx.infomodel.conceptscheme.Concept=LB:LB_CONCEPTS(1.0).ST_SR">
+        <str:Name xml:lang="en">Statisticcal area</str:Name>
+        <str:Name xml:lang="lt">Statistikos sritis</str:Name>
+      </str:Concept>
+      <str:Concept id="SUD_METOD" urn="urn:sdmx:org.sdmx.infomodel.conceptscheme.Concept=LB:LB_CONCEPTS(1.0).SUD_METOD">
+        <str:Name xml:lang="lt">Sudarymo metodas</str:Name>
+      </str:Concept>
+      <str:Concept id="TERM" urn="urn:sdmx:org.sdmx.infomodel.conceptscheme.Concept=LB:LB_CONCEPTS(1.0).TERM">
+        <str:Name xml:lang="lt">Terminas</str:Name>
+      </str:Concept>
+    <str:Concept id="TERM_UVR" urn="urn:sdmx:org.sdmx.infomodel.conceptscheme.Concept=LB:LB_CONCEPTS(1.0).TERM_UVR">
+        <str:Name xml:lang="lt">Terminas</str:Name>
+      </str:Concept>
+    <str:Concept id="TRG_ISOR_SIST" urn="urn:sdmx:org.sdmx.infomodel.conceptscheme.Concept=LB:LB_CONCEPTS(1.0).TRG_ISOR_SIST">
+        <str:Name xml:lang="en">Ancillary systems settling in TARGET2</str:Name>
+        <str:Name xml:lang="lt">I&#353;orin&#279;s sistemos, atsiskaitan&#269;ios TARGET2</str:Name>
+      </str:Concept>
+      <str:Concept id="TRG_KATEGOR" urn="urn:sdmx:org.sdmx.infomodel.conceptscheme.Concept=LB:LB_CONCEPTS(1.0).TRG_KATEGOR">
+        <str:Name xml:lang="en">TARGET2 Type of payments</str:Name>
+        <str:Name xml:lang="lt">TARGET2 mok&#279;jim&#371; tipai</str:Name>
+      </str:Concept>
+      <str:Concept id="TRG_REZIAI" urn="urn:sdmx:org.sdmx.infomodel.conceptscheme.Concept=LB:LB_CONCEPTS(1.0).TRG_REZIAI">
+        <str:Name xml:lang="en">TARGET2 Value and Time bands</str:Name>
+        <str:Name xml:lang="lt">TARGET2 operacij&#371; vert&#279;s ir &#303;vykdymo laiko r&#279;&#382;iai</str:Name>
+      </str:Concept>
+      <str:Concept id="TRG_SASK" urn="urn:sdmx:org.sdmx.infomodel.conceptscheme.Concept=LB:LB_CONCEPTS(1.0).TRG_SASK">
+        <str:Name xml:lang="en">TARGET2 Type of accounts</str:Name>
+        <str:Name xml:lang="lt">TARGET2 s&#261;skait&#371; tipai</str:Name>
+      </str:Concept>
+      <str:Concept id="TUI_COUNT_AREA" urn="urn:sdmx:org.sdmx.infomodel.conceptscheme.Concept=LB:LB_CONCEPTS(1.0).TUI_COUNT_AREA">
+        <str:Name xml:lang="en">Counterpart area</str:Name>
+        <str:Name xml:lang="lt">Prie&#353;inga ekonomin&#279; erdv&#279;</str:Name>
+      </str:Concept>
+      <str:Concept id="TUI_DUOM_TIPAS" urn="urn:sdmx:org.sdmx.infomodel.conceptscheme.Concept=LB:LB_CONCEPTS(1.0).TUI_DUOM_TIPAS">
+        <str:Name xml:lang="en">Data type</str:Name>
+        <str:Name xml:lang="lt">Duomen&#371; tipas</str:Name>
+      </str:Concept>
+      <str:Concept id="TUI_FUNKC_KATEG" urn="urn:sdmx:org.sdmx.infomodel.conceptscheme.Concept=LB:LB_CONCEPTS(1.0).TUI_FUNKC_KATEG">
+        <str:Name xml:lang="en">Functional category</str:Name>
+        <str:Name xml:lang="lt">TUI funkcin&#279;s kategorijos</str:Name>
+      </str:Concept>
+      <str:Concept id="TUI_MAT" urn="urn:sdmx:org.sdmx.infomodel.conceptscheme.Concept=LB:LB_CONCEPTS(1.0).TUI_MAT">
+        <str:Name xml:lang="en">Measurement principle</str:Name>
+        <str:Name xml:lang="lt">I&#353;matavimo principas</str:Name>
+      </str:Concept>
+      <str:Concept id="TUI_PRIEM_TURT" urn="urn:sdmx:org.sdmx.infomodel.conceptscheme.Concept=LB:LB_CONCEPTS(1.0).TUI_PRIEM_TURT">
+        <str:Name xml:lang="en">Instrument  and assets classification</str:Name>
+        <str:Name xml:lang="lt">TUI priemon&#279;s ir turtas</str:Name>
+      </str:Concept>
+      <str:Concept id="TUI_PRIES" urn="urn:sdmx:org.sdmx.infomodel.conceptscheme.Concept=LB:LB_CONCEPTS(1.0).TUI_PRIES">
+        <str:Name xml:lang="en">Level of counterpart</str:Name>
+        <str:Name xml:lang="lt">Prie&#353;ingos pus&#279;s lygmuo</str:Name>
+      </str:Concept>
+      <str:Concept id="TUI_REF_SEKT" urn="urn:sdmx:org.sdmx.infomodel.conceptscheme.Concept=LB:LB_CONCEPTS(1.0).TUI_REF_SEKT">
+        <str:Name xml:lang="en">Institutional sector in the Reference country or area</str:Name>
+        <str:Name xml:lang="lt">Referuojan&#269;ios &#353;alies sektorius</str:Name>
+      </str:Concept>
+      <str:Concept id="TUI_SANT" urn="urn:sdmx:org.sdmx.infomodel.conceptscheme.Concept=LB:LB_CONCEPTS(1.0).TUI_SANT">
+        <str:Name xml:lang="en">FDI relationship</str:Name>
+        <str:Name xml:lang="lt">TUI santykiai</str:Name>
+      </str:Concept>
+      <str:Concept id="TUI_SASK_IRASAI" urn="urn:sdmx:org.sdmx.infomodel.conceptscheme.Concept=LB:LB_CONCEPTS(1.0).TUI_SASK_IRASAI">
+        <str:Name xml:lang="en">Accounting enteries</str:Name>
+        <str:Name xml:lang="lt">S&#261;skait&#371; &#303;ra&#353;ai</str:Name>
+      </str:Concept>
+      <str:Concept id="TUI_STAT_VNT" urn="urn:sdmx:org.sdmx.infomodel.conceptscheme.Concept=LB:LB_CONCEPTS(1.0).TUI_STAT_VNT">
+        <str:Name xml:lang="en">Statistical unit</str:Name>
+        <str:Name xml:lang="lt">Statistinis vienetas</str:Name>
+      </str:Concept>
+      <str:Concept id="TUI_STR" urn="urn:sdmx:org.sdmx.infomodel.conceptscheme.Concept=LB:LB_CONCEPTS(1.0).TUI_STR">
+        <str:Name xml:lang="en">International accounts item</str:Name>
+        <str:Name xml:lang="lt">Tarptautinis s&#261;skait&#371; straipsnis</str:Name>
+      </str:Concept>
+      <str:Concept id="TUI_UNIT" urn="urn:sdmx:org.sdmx.infomodel.conceptscheme.Concept=LB:LB_CONCEPTS(1.0).TUI_UNIT">
+        <str:Name xml:lang="en">Unit of measure</str:Name>
+        <str:Name xml:lang="lt">Matavimo vienetai</str:Name>
+      </str:Concept>
+      <str:Concept id="TUI_VEIKL" urn="urn:sdmx:org.sdmx.infomodel.conceptscheme.Concept=LB:LB_CONCEPTS(1.0).TUI_VEIKL">
+        <str:Name xml:lang="en">Industrial activity, NACE and ISIC</str:Name>
+        <str:Name xml:lang="lt">Veiklos kodas</str:Name>
+      </str:Concept>
+      <str:Concept id="TUI_VEIKL_VIET" urn="urn:sdmx:org.sdmx.infomodel.conceptscheme.Concept=LB:LB_CONCEPTS(1.0).TUI_VEIKL_VIET">
+        <str:Name xml:lang="en">Activity allocation</str:Name>
+        <str:Name xml:lang="lt">Veiklos pasiskirstymas</str:Name>
+      </str:Concept>
+      <str:Concept id="TUI_VERT" urn="urn:sdmx:org.sdmx.infomodel.conceptscheme.Concept=LB:LB_CONCEPTS(1.0).TUI_VERT">
+        <str:Name xml:lang="en">Valuation</str:Name>
+        <str:Name xml:lang="lt">Vertinimas</str:Name>
+      </str:Concept>
+      <str:Concept id="TUI_VNT_TIP" urn="urn:sdmx:org.sdmx.infomodel.conceptscheme.Concept=LB:LB_CONCEPTS(1.0).TUI_VNT_TIP">
+        <str:Name xml:lang="en">Type of entity</str:Name>
+        <str:Name xml:lang="lt">Vienet&#371; tipai</str:Name>
+      </str:Concept>
+      <str:Concept id="UZST_REG_VIETA" urn="urn:sdmx:org.sdmx.infomodel.conceptscheme.Concept=LB:LB_CONCEPTS(1.0).UZST_REG_VIETA">
+        <str:Name xml:lang="en">Collateral registration area</str:Name>
+        <str:Name xml:lang="lt">U&#382;stato registracijos vieta</str:Name>
+      </str:Concept>
+      <str:Concept id="VAL" urn="urn:sdmx:org.sdmx.infomodel.conceptscheme.Concept=LB:LB_CONCEPTS(1.0).VAL">
+        <str:Name xml:lang="en">Currency</str:Name>
+        <str:Name xml:lang="lt">Valiuta</str:Name>
+        <str:TextFormat textType="String" />
+      </str:Concept>
+      <str:Concept id="VALIUTU_PORA" urn="urn:sdmx:org.sdmx.infomodel.conceptscheme.Concept=LB:LB_CONCEPTS(1.0).VALIUTU_PORA">
+        <str:Name xml:lang="lt">Valiut&#371; pora (pirkta valiuta/parduota valiuta)</str:Name>
+      </str:Concept>
+      <str:Concept id="VAL_DENOM" urn="urn:sdmx:org.sdmx.infomodel.conceptscheme.Concept=LB:LB_CONCEPTS(1.0).VAL_DENOM">
+        <str:Name xml:lang="en">Currency denominator</str:Name>
+        <str:Name xml:lang="lt">Denominacijos valiuta</str:Name>
+        <str:TextFormat textType="String" />
+      </str:Concept>
+      <str:Concept id="VEL_VYKD_ISIPAR" urn="urn:sdmx:org.sdmx.infomodel.conceptscheme.Concept=LB:LB_CONCEPTS(1.0).VEL_VYKD_ISIPAR">
+        <str:Name xml:lang="en">V&#279;lavimas vykdyti &#303;sipareigojimus</str:Name>
+        <str:Name xml:lang="lt">V&#279;lavimas vykdyti &#303;sipareigojimus</str:Name>
+      </str:Concept>
+      <str:Concept id="VIET_SER_IDS" urn="urn:sdmx:org.sdmx.infomodel.conceptscheme.Concept=LB:LB_CONCEPTS(1.0).VIET_SER_IDS">
+        <str:Name xml:lang="lt">Vidaus eilu&#269;i&#371; indeksas</str:Name>
+        <str:Name xml:lang="en">Domestic series ids</str:Name>
+      </str:Concept>
+      <str:Concept id="VPT_CONSOLID" urn="urn:sdmx:org.sdmx.infomodel.conceptscheme.Concept=LB:LB_CONCEPTS(1.0).VPT_CONSOLID">
+        <str:Name xml:lang="en">Consolidation status</str:Name>
+        <str:Name xml:lang="lt">Duomen&#371;  konsolidavimo lygmuo</str:Name>
+      </str:Concept>
+    <str:Concept id="VPT_DAZN" urn="urn:sdmx:org.sdmx.infomodel.conceptscheme.Concept=LB:LB_CONCEPTS(1.0).VPT_DAZN">
+        <str:Name xml:lang="en">Frequency</str:Name>
+        <str:Name xml:lang="lt">Da&#382;numas</str:Name>
+      </str:Concept>
+      <str:Concept id="VPT_DUOM_TIPAS" urn="urn:sdmx:org.sdmx.infomodel.conceptscheme.Concept=LB:LB_CONCEPTS(1.0).VPT_DUOM_TIPAS">
+        <str:Name xml:lang="en">Data type</str:Name>
+        <str:Name xml:lang="lt">Duomen&#371; tipas</str:Name>
+      </str:Concept>
+      <str:Concept id="VPT_EMITENT_AREA" urn="urn:sdmx:org.sdmx.infomodel.conceptscheme.Concept=LB:LB_CONCEPTS(1.0).VPT_EMITENT_AREA">
+        <str:Name xml:lang="en">Issuer country area</str:Name>
+        <str:Name xml:lang="lt">Emitento ekonomin&#279; erdv&#279;</str:Name>
+      </str:Concept>
+      <str:Concept id="VPT_EMITENT_SEKTOR" urn="urn:sdmx:org.sdmx.infomodel.conceptscheme.Concept=LB:LB_CONCEPTS(1.0).VPT_EMITENT_SEKTOR">
+        <str:Name xml:lang="en">Issuer institutional sector</str:Name>
+        <str:Name xml:lang="lt">Emitento  sektorius</str:Name>
+      </str:Concept>
+      <str:Concept id="VPT_FUNKC_KATEG" urn="urn:sdmx:org.sdmx.infomodel.conceptscheme.Concept=LB:LB_CONCEPTS(1.0).VPT_FUNKC_KATEG">
+        <str:Name xml:lang="en">Functional category</str:Name>
+        <str:Name xml:lang="lt">ISS funkcin&#279;s kategorijos</str:Name>
+      </str:Concept>
+      <str:Concept id="VPT_PR" urn="urn:sdmx:org.sdmx.infomodel.conceptscheme.Concept=LB:LB_CONCEPTS(1.0).VPT_PR">
+        <str:Name xml:lang="en">Financial Instrument classification</str:Name>
+        <str:Name xml:lang="lt">Finansin&#279; priemon&#279;</str:Name>
+      </str:Concept>
+      <str:Concept id="VPT_REPO" urn="urn:sdmx:org.sdmx.infomodel.conceptscheme.Concept=LB:LB_CONCEPTS(1.0).VPT_REPO">
+        <str:Name xml:lang="en">REPO sign</str:Name>
+        <str:Name xml:lang="lt">REPO po&#382;ymis</str:Name>
+      </str:Concept>
+      <str:Concept id="VPT_RINKA" urn="urn:sdmx:org.sdmx.infomodel.conceptscheme.Concept=LB:LB_CONCEPTS(1.0).VPT_RINKA">
+        <str:Name xml:lang="en">Securities market</str:Name>
+        <str:Name xml:lang="lt">Vertybini&#371; popieri&#371; rinka</str:Name>
+      </str:Concept>
+      <str:Concept id="VPT_TUR_AREA" urn="urn:sdmx:org.sdmx.infomodel.conceptscheme.Concept=LB:LB_CONCEPTS(1.0).VPT_TUR_AREA">
+        <str:Name xml:lang="en">Security holder country area</str:Name>
+        <str:Name xml:lang="lt">VP tur&#279;tojo ekonomin&#279; erdv&#279;</str:Name>
+      </str:Concept>
+      <str:Concept id="VPT_TUR_SEKTOR" urn="urn:sdmx:org.sdmx.infomodel.conceptscheme.Concept=LB:LB_CONCEPTS(1.0).VPT_TUR_SEKTOR">
+        <str:Name xml:lang="en">Security holder institutional sector</str:Name>
+        <str:Name xml:lang="lt">VP tur&#279;tojo sektorius</str:Name>
+      </str:Concept>
+      <str:Concept id="VPT_VERT" urn="urn:sdmx:org.sdmx.infomodel.conceptscheme.Concept=LB:LB_CONCEPTS(1.0).VPT_VERT">
+        <str:Name xml:lang="en">Valuation</str:Name>
+        <str:Name xml:lang="lt">Vertinimas</str:Name>
+      </str:Concept>
+      <str:Concept id="VPT_VP_ISL_VAL" urn="urn:sdmx:org.sdmx.infomodel.conceptscheme.Concept=LB:LB_CONCEPTS(1.0).VPT_VP_ISL_VAL">
+        <str:Name xml:lang="en">Issuer currency</str:Name>
+        <str:Name xml:lang="lt">VP i&#353;leidimo valiuta</str:Name>
+      </str:Concept>
+      <str:Concept id="VPT_VP_TERM" urn="urn:sdmx:org.sdmx.infomodel.conceptscheme.Concept=LB:LB_CONCEPTS(1.0).VPT_VP_TERM">
+        <str:Name xml:lang="en">Maturity</str:Name>
+        <str:Name xml:lang="lt">VP trukm&#279;</str:Name>
+      </str:Concept>
+      <str:Concept id="VPT_VP_TERM_TIP" urn="urn:sdmx:org.sdmx.infomodel.conceptscheme.Concept=LB:LB_CONCEPTS(1.0).VPT_VP_TERM_TIP">
+        <str:Name xml:lang="en">Maturity type</str:Name>
+        <str:Name xml:lang="lt">VP trukm&#279;s tipas</str:Name>
+      </str:Concept>
+      </str:ConceptScheme>
+    </mes:Concepts>
+</mes:Structure>
